@@ -1,0 +1,51 @@
+<div class="container" id="banner">
+  {% if page.lang == "es" %}
+  Numero de la Linea de Asistencia para Inmigrantes: <a href="tel:970-472-1501">970-472-1501</a>
+  {% else %}
+  Immigrant Assistance Hotline: <a href="tel:970-472-1501">970-472-1501</a>
+  {% endif %}
+</div>
+<nav class="navbar navbar-expand-lg navbar-light" id="navbar">
+  <div class="container">
+    <a class="navbar-brand js-scroll-trigger" href="{% if page.lang == "es" %}/es/{% else %}/{% endif %}">{{ site.title }}</a>
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+      <ul class="navbar-nav ml-auto">
+        {% for item in site.data.menus.header  %}
+         {% if item.sub-menu %}
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+            <ul class="dropdown-menu">
+           {% for subopt in item.sub-menu %}
+                <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ subopt.title-es }}{% else %}{{ subopt.title }}{% endif %}</li></a>
+            {% endfor %}
+            </ul>
+          </li>
+         {% else %}
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+          </li>
+         {% endif %}
+        {% endfor %}
+      </ul>
+        <li class="lang_li list-horizontal mobile-lang-select"><a class="lang_a nav-item {% if page.lang == "es" %}{% else %}lang_selected{% endif %}" href="{{ page.url|remove:'es/' |remove:'.html' }}">English</a>/<a class="lang_a nav-item {% if page.lang == "es" %}lang_selected{% else %}{% endif %}" href="{% if page.lang == "es" %}/{{ page.url|remove:'.html'  }}{% else %} /es{{ page.url|remove:'.html'  }}{% endif %}">Español</a></li>
+      </div>
+        <li class="lang_li full-height">
+          <i class="donate_icon qode_icon_font_awesome fa fa-heart"></i>
+          <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                <input type="hidden" name="cmd" value="_donations">
+                <input type="hidden" name="bn" value="TipsandTricks_SP">
+                <input type="hidden" name="business" value="info@fccan.org">
+                <input type="hidden" name="return" value="http://fccan.org">
+                <input type="hidden" name="item_name" value="Fuerza Latina is Community Funded Please Donate Now!">
+                <input type="hidden" name="rm" value="0">
+                <input type="hidden" name="currency_code" value="USD">
+                <input type="submit" style="background:transparent; border:none;width:100%;height: 100%;" class="nav-link  donate" value="{% if page.lang == "es" %}Donar{% else %} Donate{% endif %}">
+        </form>
+        </li>
+    </ul>
+    </div>
+  </div>
+</nav>

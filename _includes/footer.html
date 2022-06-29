@@ -1,0 +1,13 @@
+<!-- no footer at all! -->
+<footer class="bg-light py-5">
+  <div class="container">
+    <div class="small text-center text-muted">
+      {{ site.data.footer.copyright }}<br>
+      {% for link in site.data.footer.links %}
+          <a href="{{ link.url }}" {% assign new_window_is_not_empty = link.new_window | is_not_empty %}
+          {% if new_window_is_not_empty %}target="_blank" rel="noopener"
+          {% endif %}>{% if link.icon %}{{link.icon}}{% else %}{{ link.text }}{% endif %}</a>
+      {% endfor %} 
+    </div>
+  </div>
+</footer>

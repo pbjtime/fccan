@@ -1,0 +1,176 @@
+backend:
+  name: git-gateway
+  branch: master
+
+local_backend:
+  url: http://localhost:8076/api/v1
+
+media_folder: "media"
+public_folder: "/media"
+
+collections:
+  - label: "Homepage Sections"
+    name: "homepage-sections"
+    folder: "_homepage-sections"
+    slug: "{{title-en}}"
+    summary: "{{title-en}} -- {{id}} -- {{order}}"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Section ID", name: "id", widget: "string", default: "give-me-an-id" }
+      - { label: "Section order", name: "order", widget: "number",  default: 50, valueType: "int", min: 1, max: 101 }
+      - { label: "Section Title (English)", name: "title-en", widget: "string" }
+      - { label: "Section Text (English)", name: "body-en", widget: "markdown" }
+      - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Section Text (Spanish)", name: "body-es", widget: "markdown" }
+  - label: "Programs"
+    name: "programs"
+    folder: "_programs"
+    slug: "{{title-en}}"
+    summary: "{{title-en}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: "Files"
+        name: "files"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - { label: "Title (English)", name: "title-en", widget: "string" }
+      - { label: "Body (English)", name: "body-en", widget: "markdown" }
+      - { label: "Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Body (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Resources"
+    name: "resources"
+    folder: "_resources"
+    slug: "{{title-en}}"
+    summary: "{{title-en}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: "Files (English)"
+        name: "files-en"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - label: "Files (Spanish)"
+        name: "files-es"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - label: "Files (Additional)"
+        name: "files-etc"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - { label: "Title (English)", name: "title-en", widget: "string" }
+      - { label: "Body (English)", name: "body-en", widget: "markdown", required: false }
+      - { label: "Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Body (Spanish)", name: "body-es", widget: "markdown", required: false }
+      - { label: "Resource Type", name: "resource-type", widget: "select", options: ["Fuerza Resource", "Community Resource"], default: ["Fuerza Resource"] }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Events"
+    name: "events"
+    folder: "_events"
+    slug: "{{title-en}}"
+    summary: "{{title-en}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Event Start Time"
+        name: "start"
+        widget: "datetime"
+        default: ""
+        dateFormat: "DD.MM.YYYY" # e.g. 24.12.2021
+        timeFormat: "hh:mm" 
+        format: "LLL"
+        pickerUtc: false
+      - label: "Event End Time"
+        name: "end"
+        widget: "datetime"
+        default: ""
+        dateFormat: "DD.MM.YYYY" # e.g. 24.12.2021
+        timeFormat: "hh:mm"
+        format: "LLL"
+        pickerUtc: false
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Location", name: "location", widget: "string" }
+      - { label: "Title (English)", name: "title-en", widget: "string" }
+      - { label: "Body (English)", name: "body-en", widget: "markdown" }
+      - { label: "Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Body (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Staff Members"
+    name: "staff"
+    folder: "_staff"
+    slug: "{{name}}"
+    summary: "{{name}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Name", name: "name", widget: "string", default: "", }
+      - { label: "Title", name: "job-title", widget: "string", default: "", }
+      - { label: "About You (English)", name: "body-en", widget: "markdown" }
+      - { label: "About You (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Spokescouncil"
+    name: "spokescouncil"
+    folder: "_pokescouncil"
+    slug: "{{name}}"
+    summary: "{{name}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Name", name: "name", widget: "string", default: "", }
+      - { label: "About You (English)", name: "body-en", widget: "markdown" }
+      - { label: "About You (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
