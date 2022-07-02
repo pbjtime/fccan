@@ -1,13 +1,13 @@
 # Fccan Fort Collins Colorado Website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/5a05781c-e452-4664-8407-83473d8f8b0a/deploy-status)](https://app.netlify.com/sites/fuerza-latina/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/077425e5-d667-4fee-afb2-aac79195beea/deploy-status)](https://app.netlify.com/sites/fccan/deploys)
 
 This is the repo for https://fccan.com. Fccan is an organization based in community focused on furthering economic, social, and environmental justice, sustainability, human rights, and peace for all by building coalitions, developing strategies and actions, and supporting existing progressive organizations.
 
 This site functions off the following technologies:
  [Jekyll](https://jekyllrb.com/)
  [netlify-cms](https://www.netlifycms.org/).
- [netlify](https://app.netlify.com/) (team page: https://app.netlify.com/sites/fuerza-latina/overview)
+ [netlify](https://app.netlify.com/) (team page: https://app.netlify.com/sites/fccan/overview)
 
 Using these technologies, we can obtain the following:
  - static site generation (no backend servers)

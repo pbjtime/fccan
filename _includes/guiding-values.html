@@ -1,0 +1,8 @@
+<section>
+  <div class="container">
+      {% for value in site.values %}
+      <p><strong>{% if page.lang == "es" %}{{ value.title-es | newline_to_br }}{% else %}{{ value.title-en | newline_to_br }}{% endif %}</strong> 
+        {% if page.lang == "es" %}{{ value.body-es | newline_to_br | markdownify }}{% else %}{{ value.body-en | newline_to_br | markdownify }}{% endif %}<br></p>
+      {% endfor %}
+    </div>
+</section>

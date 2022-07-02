@@ -52,6 +52,41 @@ collections:
       - { label: "Title (Spanish)", name: "title-es", widget: "string" }
       - { label: "Body (Spanish)", name: "body-es", widget: "markdown" }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Values"
+    name: "values"
+    folder: "_values"
+    slug: "{{title-en}}"
+    summary: "{{title-en}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - { label: "Name (English)", name: "title-en", widget: "string" }
+      - { label: "Info (English)", name: "body-en", widget: "markdown" }
+      - { label: "Name (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Info (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Affiliates"
+    name: "affiliates"
+    folder: "_affiliates"
+    slug: "{{title-en}}"
+    summary: "{{title-en}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - { label: "Org Name (English)", name: "title-en", widget: "string" }
+      - { label: "About (English)", name: "body-en", widget: "markdown" }
+      - { label: "Org Name (Spanish)", name: "title-es", widget: "string" }
+      - { label: "About (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Resources"
     name: "resources"
     folder: "_resources"
@@ -93,7 +128,7 @@ collections:
       - { label: "Body (English)", name: "body-en", widget: "markdown", required: false }
       - { label: "Title (Spanish)", name: "title-es", widget: "string" }
       - { label: "Body (Spanish)", name: "body-es", widget: "markdown", required: false }
-      - { label: "Resource Type", name: "resource-type", widget: "select", options: ["Fuerza Resource", "Community Resource"], default: ["Fuerza Resource"] }
+      - { label: "Resource Type", name: "resource-type", widget: "select", options: ["Fccan Resource", "Community Resource"], default: ["Fccan Resource"] }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Events"
     name: "events"
@@ -150,13 +185,14 @@ collections:
           config:
             multiple: false
       - { label: "Name", name: "name", widget: "string", default: "", }
-      - { label: "Title", name: "job-title", widget: "string", default: "", }
+      - { label: "Title (English)", name: "job-title-en", widget: "string", default: "", }
+      - { label: "Title (Spanish)", name: "job-title-es", widget: "string", default: "", }
       - { label: "About You (English)", name: "body-en", widget: "markdown" }
       - { label: "About You (Spanish)", name: "body-es", widget: "markdown" }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
-  - label: "Steering Committee"
-    name: "steering-committee"
-    folder: "_steering-committee"
+  - label: "Spokescouncil"
+    name: "spokescouncil"
+    folder: "_spokescouncil"
     slug: "{{name}}"
     summary: "{{name}}"
     create: true

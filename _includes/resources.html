@@ -87,11 +87,11 @@
      {% if community_resource == 0 %}
       <script>document.getElementById("community-resource-header").remove();</script>
       {% endif %}
-     <h1 class="mt-0" id="fuerza-resource-header">Important Fuerza Latina Resources</h1>
-    {% assign fuerza_resource=0 %}
+     <h1 class="mt-0" id="fccan-resource-header">Important Fccan Resources</h1>
+    {% assign fccan_resource=0 %}
      {% for resource in site.resources limit:5%}
-      {% if resource.resource-type == "Fuerza Resource" %}
-      {% capture fuerza_resource %}{% increment fuerza_resource %}{% endcapture %}
+      {% if resource.resource-type == "fccan Resource" %}
+      {% capture fccan_resource %}{% increment fccan_resource %}{% endcapture %}
     <div class="row-fluid event-box">
       <h2 class="text-center mt-0">{% if page.lang == "es" %}{{ resource.title-es | newline_to_br }}{% else %}{{ resource.title-en | newline_to_br }}{% endif %}</h2>
 

@@ -18,15 +18,17 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Fuerza Latina
+title: <img src="/media/cropped-cropped-fccanWebLogo-300x123.png">
+title_short: FCCAN
 email: info@fccan.org
 description: >- # this means to ignore newlines until "baseurl:"
-  Fuerza Latina is an organizaitions of immigrants and allies
-  dedicated to educating, informaing, organizing & promoting
-  change to facilitate an imporved quality of life for immigrants
-  in Nothern Colorado.
-url: "https://fueralatinafoco.org" # the base hostname & protocol for your site, e.g. http://example.com
+  FCCAN’s mission is to create community based on furthering economic, 
+  social, and environmental justice, sustainability, human rights, and 
+  peace for all by building coalitions, developing strategies and 
+  actions, and supporting existing progressive organizations.
+url: "https://fccan.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: FCCAN2
+mast-background: media/IMG_2882.jpeg
 
 # Build settings
 plugins:
@@ -76,7 +78,7 @@ collections:
 
 
 social:
-  name: Fuerza Latina
+  name: FCCAN
   links:
     - https://twitter.com/FCCAN2
 

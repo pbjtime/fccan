@@ -12,6 +12,8 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
+      <li class="lang_li mobile-lang-select"><a class="lang_a nav-item {% if page.lang == "es" %}{% else %}lang_selected{% endif %}" href="{{ page.url|remove:'es/' |remove:'.html' }}">English</a>/<a class="lang_a nav-item {% if page.lang == "es" %}lang_selected{% else %}{% endif %}" href="{% if page.lang == "es" %}/{{ page.url|remove:'.html'  }}{% else %} /es{{ page.url|remove:'.html'  }}{% endif %}">Español</a></li>
+      
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.menus.header  %}
          {% if item.sub-menu %}
@@ -24,13 +26,32 @@
             </ul>
           </li>
          {% else %}
+           {% if item.title == "Programs" %}
+              <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+              <ul class="dropdown-menu">
+        
+             {% for program in site.programs %}
+              {% if forloop.length == 0 %}
+              {{forloop.length}}
+                  <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ program.title-es }}{% else %}{{ program.title-en }}{% endif %}</li></a>
+              {% else %}
+                <li class="nav-item">
+                  <a class="nav-link js-scroll-trigger" href="{{ item.url }}">{% if page.lang == "es" %}No Programas Activos{% else %}No Active Programs{% endif %}</a>
+                </li>
+              {% endif %}
+              {% endfor %}
+              </ul>
+            </li>
+         {% else %}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
           </li>
          {% endif %}
+         {% endif %}
         {% endfor %}
       </ul>
-        <li class="lang_li list-horizontal mobile-lang-select"><a class="lang_a nav-item {% if page.lang == "es" %}{% else %}lang_selected{% endif %}" href="{{ page.url|remove:'es/' |remove:'.html' }}">English</a>/<a class="lang_a nav-item {% if page.lang == "es" %}lang_selected{% else %}{% endif %}" href="{% if page.lang == "es" %}/{{ page.url|remove:'.html'  }}{% else %} /es{{ page.url|remove:'.html'  }}{% endif %}">Español</a></li>
+        
       </div>
         <li class="lang_li full-height">
           <i class="donate_icon qode_icon_font_awesome fa fa-heart"></i>
@@ -39,7 +60,7 @@
                 <input type="hidden" name="bn" value="TipsandTricks_SP">
                 <input type="hidden" name="business" value="info@fccan.org">
                 <input type="hidden" name="return" value="http://fccan.org">
-                <input type="hidden" name="item_name" value="Fuerza Latina is Community Funded Please Donate Now!">
+                <input type="hidden" name="item_name" value="Fccan is Community Funded Please Donate Now!">
                 <input type="hidden" name="rm" value="0">
                 <input type="hidden" name="currency_code" value="USD">
                 <input type="submit" style="background:transparent; border:none;width:100%;height: 100%;" class="nav-link  donate" value="{% if page.lang == "es" %}Donar{% else %} Donate{% endif %}">

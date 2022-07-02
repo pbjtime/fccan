@@ -15,21 +15,15 @@ header:
     - title: Our Staff
       title-es: Nuestro Personal
       url: our-staff
-- title: Our Affiliates
-  title-es: Our Affiliates
+- title: Affiliates
+  title-es: Affiliates
   url: affiliates
-- title: Healing Justice
-  title-es: Healing Justice
-  url: healing-justice
-- title: Take Action
-  title-es: Take Action
-  url: take-action
-- title: TimePeace
-  title-es: TimePeace
+- title: Programs
+  title-es: Programas
+  url: programs
+- title: Blog
+  title-es: Blog
   url: blog
-- title: Donate
-  title-es: Donate
-  url: donate
-- title: Contact Us
-  title-es: Contact Us
-  url: contact
+- title: Get Involved
+  title-es: Involucrarse
+  url: get-involved
