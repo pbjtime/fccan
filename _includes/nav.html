@@ -33,12 +33,11 @@
         
              {% for program in site.programs %}
               {% if forloop.length == 0 %}
-              {{forloop.length}}
-                  <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ program.title-es }}{% else %}{{ program.title-en }}{% endif %}</li></a>
-              {% else %}
-                <li class="nav-item">
+              <li class="nav-item">
                   <a class="nav-link js-scroll-trigger" href="{{ item.url }}">{% if page.lang == "es" %}No Programas Activos{% else %}No Active Programs{% endif %}</a>
                 </li>
+              {% else %}
+                  <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ program.title-es }}{% else %}{{ program.title-en }}{% endif %}</li></a>
               {% endif %}
               {% endfor %}
               </ul>
