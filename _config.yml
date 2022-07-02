@@ -72,7 +72,13 @@ collections:
   resources:
     output: false
     permalink: /:collection
-  steering-committee:
+  spokescouncil:
+    output: false
+    permalink: /:collection
+  values:
+    output: false
+    permalink: /:collection
+  affiliates:
     output: false
     permalink: /:collection
 
