@@ -1,4 +1,5 @@
 ---
+layout: programs
 picture: /media/Healing-Justice.png
 title-en: Healing Justice
 body-en: >-
