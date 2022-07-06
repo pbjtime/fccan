@@ -66,8 +66,6 @@ collections:
   events:
     output: false
     permalink: /:collection
-  programs:
-    output: true
   resources:
     output: false
     permalink: /:collection

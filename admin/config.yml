@@ -24,11 +24,11 @@ collections:
       - { label: "Section Text (English)", name: "body-en", widget: "markdown" }
       - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
       - { label: "Section Text (Spanish)", name: "body-es", widget: "markdown" }
-  - label: "Programs"
+  - label: "Programs English"
     name: "programs"
-    folder: "_programs"
-    slug: "{{title-en}}"
-    summary: "{{title-en}}"
+    folder: "en/_programs"
+    slug: "{{title}}"
+    summary: "{{title}}"
     create: true
     editor:
       preview: false
@@ -47,11 +47,38 @@ collections:
         media_library:
           config:
             multiple: true
-      - { label: "Title (English)", name: "title-en", widget: "string" }
-      - { label: "Body (English)", name: "body-en", widget: "markdown" }
-      - { label: "Title (Spanish)", name: "title-es", widget: "string" }
-      - { label: "Body (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Title (English)", name: "title", widget: "string" }
+      - { label: "Body (English)", name: "body", widget: "markdown" }
       - { label: "Layout", name: "layout", widget: "hidden", default: "programs"}
+      - { label: "Lang", name: "lang", widget: "hidden", default: "en"}
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Programs Spanish"
+    name: "programs"
+    folder: "es/_programs"
+    slug: "{{title}}"
+    summary: "{{title}}"
+    create: true
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: "Files"
+        name: "files"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - { label: "Title (Spanish)", name: "title", widget: "string" }
+      - { label: "Body (Spanish)", name: "body", widget: "markdown" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "programs"}
+      - { label: "Lang", name: "lang", widget: "hidden", default: "es"}
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Values"
     name: "values"

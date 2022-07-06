@@ -1,15 +1,38 @@
-<section>
-  <div class="container">
-      {% for program in site.programs %}
-      <div class="row-fluid member-box">
-      	{% if program.picture %}
-        <div class="col-md-auto">
-          <a href="{{ program.url }}"><img class="fa fa-3x" src="{{ program.picture }}"></a>
-        </div>
-        {{else}}
-        <h2 class="text-center mt-0"><a href="{{ program.url }}">{% if page.lang == "es" %}{{ program.title-es | newline_to_br }}{% else %}{{ program.title-en | newline_to_br }}{% endif %}</a></h2>
-       	{% endif %}
-      {% endfor %}
+{% for program in site.programs %}
+ {{page}}<br>
+{{program.url}} <br>
+{% if page.url == program.url %}
+<header class="masthead pagehead" {% if page.background_image %} style="background-image: {{ page.background_image }}"{% endif %} >
+  <div class="container h-100">
+    <div class="row h-100 align-items-center justify-content-center text-center">
+      <div class="col-lg-10 ">
+        <h1 class="text-uppercase text-white font-weight-bold">{% if page.lang == "es" %}{{ page.title-es }}{% else %}{{ page.title-en  }}{% endif %}</h1>
+        <hr class="divider my-4">
+      </div>
     </div>
   </div>
-</section>
+</header>
+
+<div class="container">
+
+    {% if page.picture %}
+    <div class="col-md-auto row justify-content-center">
+      <img class="fa fa-3x" src="{{ page.picture }}">
+    </div>
+    <br>
+    <div class="row-fluid member-box">
+    {% endif %}
+    {% if page.files %}
+    {% for file in page.files %}
+      <a class=center-me href="{{ file }}">{{ file | remove: "/media/"}}</a>
+    {% endfor %}
+    {% endif %}
+    <div class="col-md-auto">
+      <div class="card-body">
+        <p class="card-text"> {% if page.lang == "es" %}{{ page.body-es | newline_to_br | markdownify }}{% else %}{{ page.body-en | newline_to_br | markdownify }}{% endif %}</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endif %}
+{% endfor %}
