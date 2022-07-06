@@ -1,4 +1,5 @@
 ---
+layout: programs
 picture: /media/NO-MORE-SROS-EMAIL-BOE@-1.png
 title-en: School Justice PSD
 body-en: >-
