@@ -80,6 +80,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "programs"}
       - { label: "Lang", name: "lang", widget: "hidden", default: "es"}
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+      - { label: "Program in English", name: "en-program", widget: "relation", collection: "programs-en", search_fields: ["title"], value_field: "title"}
   - label: "Values"
     name: "values"
     folder: "_values"
@@ -158,22 +159,24 @@ collections:
       - { label: "Body (Spanish)", name: "body-es", widget: "markdown", required: false }
       - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
-  - label: "groupings"
-    name: "Groupings"
+  - label: "Groupings"
+    name: "groupings"
     folder: "_groupings"
     slug: "{{group}}"
     summary: "{{group}}"
     create: true
+    identifier_field: 'group'
     editor:
       preview: false
     fields:
       - { label: "Group Name", name: "group", widget: "string" }
-  - label: "Blog"
-    name: "blog"
-    folder: "_blog"
+  - label: "Blog English"
+    name: "blog-en"
+    folder: "en/_blog-en"
     slug: "{{title-en}}"
     summary: "{{title-en}}"
     create: true
+    identifier_field: "title"
     editor:
       preview: false
     fields:
@@ -185,14 +188,7 @@ collections:
           config:
             multiple: false
       - label: "Files (English)"
-        name: "files-en"
-        widget: "file"
-        required: false
-        media_library:
-          config:
-            multiple: true
-      - label: "Files (Spanish)"
-        name: "files-es"
+        name: "files"
         widget: "file"
         required: false
         media_library:
@@ -205,12 +201,46 @@ collections:
         media_library:
           config:
             multiple: true
-      - { label: "Title (English)", name: "title-en", widget: "string" }
-      - { label: "Body (English)", name: "body-en", widget: "markdown", required: false }
-      - { label: "Title (Spanish)", name: "title-es", widget: "string" }
-      - { label: "Body (Spanish)", name: "body-es", widget: "markdown", required: false }
+      - { label: "Title (English)", name: "title", widget: "string" }
+      - { label: "Body (English)", name: "body", widget: "markdown", required: false }
       - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+  - label: "Blog Spanish"
+    name: "blog-es"
+    folder: "es/_blog-es"
+    slug: "{{title-es}}"
+    summary: "{{title-es}}"
+    create: true
+    identifier_field: "title"
+    editor:
+      preview: false
+    fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
+      - label: "Files (English)"
+        name: "files"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - label: "Files (Additional)"
+        name: "files-etc"
+        widget: "file"
+        required: false
+        media_library:
+          config:
+            multiple: true
+      - { label: "Title (English)", name: "title", widget: "string" }
+      - { label: "Body (English)", name: "body", widget: "markdown", required: false }
+      - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
+      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+      - { label: "Blog in English", name: "blog-en", widget: "relation", collection: "blog-en", search_fields: ["title"], value_field: "title"}
   - label: "Events"
     name: "events"
     folder: "_events"
