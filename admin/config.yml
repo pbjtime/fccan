@@ -26,7 +26,7 @@ collections:
       - { label: "Section Text (Spanish)", name: "body-es", widget: "markdown" }
   - label: "Programs English"
     name: "programs-en"
-    folder: "en/_programs"
+    folder: "_programs"
     slug: "{{title}}"
     summary: "{{title}}"
     create: true
@@ -54,9 +54,9 @@ collections:
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Programs Spanish"
     name: "programs-es"
-    folder: "es/_programs"
-    slug: "{{title}}"
-    summary: "{{title}}"
+    folder: "_programs-es"
+    slug: "{{en-program}}"
+    summary: "{{en-program}}"
     create: true
     editor:
       preview: false

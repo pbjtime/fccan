@@ -78,6 +78,12 @@ collections:
   affiliates:
     output: false
     permalink: /:collection
+  programs:
+    output: true
+    permalink: /:collection/:title
+  programs-es:
+    output: true
+    permalink: /es/programs/:title
 
 
 social:

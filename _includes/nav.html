@@ -31,9 +31,15 @@
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
               <ul class="dropdown-menu">
         
-             {% for program in site.programs %}
-                  <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ program.title-es }}{% else %}{{ program.title-en }}{% endif %}</li></a>
-              {% endfor %}
+              {% if page.lang == "es" %}
+                {% for program in site.programs-es %}
+                <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
+                {% endfor %}
+              {% else %}
+                {% for program in site.programs %}
+                <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
+                {% endfor %}
+              {% endif %}  
               </ul>
             </li>
          {% else %}
