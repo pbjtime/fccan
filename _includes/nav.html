@@ -16,37 +16,51 @@
       
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.menus.header  %}
-         {% if item.sub-menu %}
-          <li class="nav-item dropdown">
-            <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
-            <ul class="dropdown-menu">
-           {% for subopt in item.sub-menu %}
-                <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ subopt.title-es }}{% else %}{{ subopt.title }}{% endif %}</li></a>
-            {% endfor %}
-            </ul>
-          </li>
-         {% else %}
+           {% if item.sub-menu %}
+              <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+                <ul class="dropdown-menu">
+                  {% for subopt in item.sub-menu %}
+                    <a href="{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ subopt.title-es }}{% else %}{{ subopt.title }}{% endif %}</li></a>
+                  {% endfor %}
+                </ul>
+              </li>
+           {% else %}
            {% if item.title == "Programs" %}
               <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
               <ul class="dropdown-menu">
-        
-              {% if page.lang == "es" %}
-                {% for program in site.programs-es %}
-                <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
-                {% endfor %}
-              {% else %}
-                {% for program in site.programs %}
-                <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
-                {% endfor %}
-              {% endif %}  
+                {% if page.lang == "es" %}
+                  {% for program in site.programs-es %}
+                  <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
+                  {% endfor %}
+                {% else %}
+                  {% for program in site.programs %}
+                  <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ program.title }}</li></a>
+                  {% endfor %}
+                {% endif %}
               </ul>
-            </li>
-         {% else %}
-          <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="/{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
-          </li>
-         {% endif %}
+              </li>
+            {% elsif item.title == "Affiliates" %}
+              <li class="nav-item dropdown">
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+              <ul class="dropdown-menu">
+                {% if page.lang == "es" %}
+                  {% for program in site.affiliates-es %}
+                  <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliates.title }}</li></a>
+                  {% endfor %}
+                {% else %}
+                  {% for program in site.affiliates %}
+                  <a href="{{ program.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliates.title }}</li></a>
+                  {% endfor %}
+                {% endif %}  
+              </ul>
+              </li>
+            {% else %}
+              <li class="nav-item">
+                <a class="nav-link js-scroll-trigger" href="/{{ item.url }}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+              </li>
+            {% endif %}
          {% endif %}
         {% endfor %}
       </ul>

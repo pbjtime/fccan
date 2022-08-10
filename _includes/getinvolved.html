@@ -18,7 +18,9 @@
           Phone: <a href="tel:9704198944">Call 970-419-8944</a><br>
           Or Email Us:<br>
           <b class="text-black">Fccan Community Contact</b> <a href = "mailto: info@fccan.com">info@fccan.com</a> <br>
-          <b class="text-black">FCCAN Coorrdinator Shirley Leung</b> <a href = "mailto: shirley@fccan.org">shirley@fccan.org</a>  <br>
+          {% for member in site.staff %}
+          <b class="text-black">{{member.title}} - {{member.name}}</b> <a href = "mailto: {{member.email}}">{{member.email}}</a>  <br>
+          {% endfor %}
         </div>
       </div>
     </div>

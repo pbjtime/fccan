@@ -76,8 +76,11 @@ collections:
     output: false
     permalink: /:collection
   affiliates:
-    output: false
-    permalink: /:collection
+    output: true
+    permalink: /:collection/:title
+  affiliates-es:
+    output: true
+    permalink: /es/affiliates/:title
   programs:
     output: true
     permalink: /:collection/:title
