@@ -1,0 +1,29 @@
+---
+title: "Community Accountability and the Proposed Larimer County Jail Expansion"
+layout: post
+associated-group:
+   - fccan
+date: "2019-05-23"
+---
+
+By: Chase Williams and Shirley Coenen
+
+The Larimer County Commissioners will vote to approve a $75,000,000 jail expansion at the end of this summer. It will almost double the size of the jail from its current 617 beds to 1,067. This project has been successfully hidden from the public view through the use of backhanded funding practices that do not require community input through a vote, community input or any community discussion.  
+
+The Fort Collins Homeless Coalition has been working to defend the community’s right to a democratic decision-making process on whether we want to spend over $75 million to finance the new Larimer County Jail. We also believe that funding what our communities' need to thrive instead of the criminalization of people is not just a better investment, it is morally right.  
+
+Research has shown that across the nation, with Fort Collins included, jails and prisons are primarily used to incarcerate people experiencing poverty and people of color. The jail expansion proposal is shrouded in language guaranteeing increased public safety and is promoted as if it is an obvious necessity with our population growth, but research and experience shows that this is false and misleading and in the end building more cages to put human beings in will further invisiblize people in our community who are at risk to incarceration, such as those in poverty, people of color, immigrants, disabled and those with mental illnesses.  
+
+[Larimer County’s Facilities Master Plan](https://apps.larimer.org/bids/documents/P18-23_0207325.pdf) lays out their proposal of this expansion with the assumption that increased population correlates with increased crime rates. This is not true, the ACLU has reported that in the early 2010s crime rates across the country have plateaued and in many cases has decreased. **Currently sixty-six percent of the people held in the jail have not been convicted of any crime yet and many of these people are there solely due to their inability to pay their bail.** The county frequently refers back to their multitude of pretrial services, speciality courts, substance abuse and mental health treatment plans and diversion plans. However, these services routinely require the person to pay bail first, this discrepancy makes these services null and void. The false information that surrounds this expansion proposal serves to garner support from the three County Commissioners who have the final say in it’s approval, disallowing any democratic engagement from the community.
+
+Within the County’s Facilities Master Plan, there are a series of exercises that the county constructed for the Criminal Justice Advisory Committee to perform to help better understand the needs they have observed while working with the populations most at risk for filling the proposed beds. The members of this committee include those who benefit from incarceration- police chiefs, the sheriff, attornies, county staff and a CEO. No one from the community who has a lived experience of incarceration themself, or who has been directly impacted by the jail system is given the space to be included in this conversation. Their answers are summed up as such:
+
+![](https://lh4.googleusercontent.com/e_JZWB2NGIGoecBTu546bL-4pejVHpL513Lj1O6teX4aSCW2_fVHnueNTXHv5MLSyLQoiB9ZlIUbwTXqVMdOsI98M6Gbz6wr20_VcB2AUiy73STtCdkaaYkqgbCnQ8UwFqf-RwYG)
+
+Within each of these boxes they have identified a need for “community support, public awareness and education”.  Which leaves us wondering why they would engage such a large, impactful, long term project such as doubling the size of the Larimer County jail while providing no space for community engagement? In fact, the community has been given the opportunity to vote for a jail expansion four times since 2006 only to have a minor increase in taxes voted in during 2014. All other times it was voted on, it failed to garner enough support. It is clear that the community does not want to be putting more people in cages.
+
+More jail beds appear even less reasonable as the rest of the nation as well as the [Colorado Bond Reform](https://leg.colorado.gov/bills/hb19-1226) initiative that just received the governor’s signature, works to reform the cash bail system. Again, an astonishing [sixty-six percent of people held in Larimer County jails](http://trends.vera.org/rates/larimer-county-co) haven’t been convicted of anything, according to 2015 data from the Vera Institute of Justice, which tracks trends in prison populations. Many are there because they can’t afford bail. Rather than creating drastic alternatives to a cash bail system that needlessly drives incarceration, Larimer County is spending millions to expand our incarceration infrastructure with moderate efforts to keep fewer people from spending time in jail.
+
+Any major county development should start with conversations in the county’s communities. Instead, Larimer County charged ahead with the new jail development with virtually no public input. With many months built into this long process that started last year, there has been ample time to hear from residents. Community members have a right to know why their tax dollars are being spent on a jail, as well as the impacts of its construction,  and their input should be taken into account.
+
+To conclude, research has shown that putting people in jail, doesn’t help them recover from addiction, mental illness, prevent crime or violence, or increase public safety. As a community, we should be fighting for affordable housing, increased public transportation, mental health care and better education- not spending millions of dollars on expanding the carceral system.
