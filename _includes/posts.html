@@ -1,6 +1,6 @@
 {% for post in site.blog  reversed %}
 	{% if page.url contains "blog" %}
-		{% if post.associated-group contains "fccan" %}
+		{% if post.associated-group contains "blog" %}
 		<a href="{{ post.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ post.title }}</li></a>
 		{% endif %}
 	{% elsif page.url contains "affiliate" %}

@@ -18,17 +18,17 @@
         {% for item in site.data.menus.header  %}
            {% if item.sub-menu %}
               <li class="nav-item dropdown">
-                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href={% if page.lang == "es" %}"/es/{{ item.url }}"{% else %}"/{{ item.url }}"{% endif %}>{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+                <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{% if page.lang == "es" %}/es/{{ item.url }}{% else %}/{{ item.url }}{% endif %}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
                 <ul class="dropdown-menu">
                   {% for subopt in item.sub-menu %}
-                    <a href="/{{ subopt.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ subopt.title-es }}{% else %}{{ subopt.title }}{% endif %}</li></a>
+                    <a href="{% if page.lang == "es" %}/es/{{ subopt.url }}{% else %}/{{ subopt.url }}{% endif %}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{% if page.lang == "es" %}{{ subopt.title-es }}{% else %}{{ subopt.title }}{% endif %}</li></a>
                   {% endfor %}
                 </ul>
               </li>
            {% else %}
            {% if item.title == "Programs" %}
               <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href={% if page.lang == "es" %}"/es/{{ item.url }}"{% else %}"/{{ item.url }}"{% endif %}>{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{% if page.lang == "es" %}/es/{{ item.url }}{% else %}/{{ item.url }}{% endif %}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
               <ul class="dropdown-menu">
                 {% if page.lang == "es" %}
                   {% for program in site.programs-es %}
@@ -43,7 +43,7 @@
               </li>
             {% elsif item.title == "Affiliates" %}
               <li class="nav-item dropdown">
-              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href={% if page.lang == "es" %}"/es/{{ item.url }}"{% else %}"/{{ item.url }}"{% endif %} >{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+              <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="{% if page.lang == "es" %}/es/{{ item.url }}{% else %}/{{ item.url }}{% endif %}" >{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
               <ul class="dropdown-menu">
                 {% if page.lang == "es" %}
                   {% for affiliate in site.affiliates-es %}
@@ -58,7 +58,7 @@
               </li>
             {% else %}
               <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href={% if page.lang == "es" %}"/es/{{ item.url }}"{% else %}"/{{ item.url }}"{% endif %}>{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
+                <a class="nav-link js-scroll-trigger" href="{% if page.lang == "es" %}/es/{{ item.url }}{% else %}/{{ item.url }}{% endif %}">{% if page.lang == "es" %}{{ item.title-es }}{% else %}{{ item.title }}{% endif %}</a>
               </li>
             {% endif %}
          {% endif %}
