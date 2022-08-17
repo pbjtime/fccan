@@ -9,21 +9,6 @@ media_folder: "media"
 public_folder: "/media"
 
 collections:
-  - label: "Homepage Sections"
-    name: "homepage-sections"
-    folder: "_homepage-sections"
-    slug: "{{title-en}}"
-    summary: "{{title-en}} -- {{id}} -- {{order}}"
-    create: true
-    editor:
-      preview: true
-    fields:
-      - { label: "Section ID", name: "id", widget: "string", default: "give-me-an-id" }
-      - { label: "Section order", name: "order", widget: "number",  default: 50, valueType: "int", min: 1, max: 101 }
-      - { label: "Section Title (English)", name: "title-en", widget: "string" }
-      - { label: "Section Text (English)", name: "body-en", widget: "markdown" }
-      - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
-      - { label: "Section Text (Spanish)", name: "body-es", widget: "markdown" }
   - label: "Programs English"
     name: "programs-en"
     folder: "_programs"
@@ -92,6 +77,8 @@ collections:
     fields:
       - { label: "Name (English)", name: "title", widget: "string" }
       - { label: "Info (English)", name: "body", widget: "markdown" }
+      - { label: "Name (Spanish)", name: "title", widget: "string" }
+      - { label: "Info (Spanish)", name: "body", widget: "markdown" }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Affiliates"
     name: "affiliates-en"
@@ -195,6 +182,13 @@ collections:
     editor:
       preview: false
     fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
@@ -211,6 +205,13 @@ collections:
     editor:
       preview: false
     fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
