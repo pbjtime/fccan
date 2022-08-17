@@ -2,7 +2,7 @@
 title: "La Fondita Latina"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-11-25"
 ---
 
@@ -20,17 +20,17 @@ Worker owned cooperatives have been started throughout all of the United States 
 
 Fuerza Latina is still in the process of helping create a worker owned coop named **La Fondita Latina.** It is a restaurant based coop that will help generate work for immigrants in the Fort Collins community that might otherwise struggle to find work, especially now during the Covid-19 pandemic where many jobs have been lost and businesses have shut down. As a way to create some awareness about La Fondita Latina as a worker owned coop, Fuerza decided to collaborate with other community organizations and projects dedicated to helping immigrants in Fort Collins in order to bring about the first ever Mercadito. 
 
-- ![](media/coop-1-768x1024.jpg)
+- ![](/media/coop-1-768x1024.jpg)
     
-- ![](media/coop-2-1024x768.jpg)
+- ![](/media/coop-2-1024x768.jpg)
     
-- ![](media/coop-3-769x1024.jpg)
+- ![](/media/coop-3-769x1024.jpg)
     
-- ![](media/coop-4-1024x768.jpg)
+- ![](/media/coop-4-1024x768.jpg)
     
-- ![](media/coop-5-1024x768.jpg)
+- ![](/media/coop-5-1024x768.jpg)
     
-- ![](media/coop-6.jpg)
+- ![](/media/coop-6.jpg)
     
 
 _Photos of the Fuerza Latina team during El Mercadito  

@@ -2,7 +2,7 @@
 title: "Linking Climate Protection and Peace"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-09-30"
 ---
 

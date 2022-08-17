@@ -2,7 +2,7 @@
 title: "Honoring & Remembering bell hooks"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-01-17"
 ---
 

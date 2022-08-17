@@ -2,7 +2,7 @@
 title: "Questioning Capitalism is Patriotic"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-02-03"
 ---
 

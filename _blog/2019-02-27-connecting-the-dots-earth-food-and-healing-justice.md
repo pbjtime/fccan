@@ -2,7 +2,7 @@
 title: "Connecting the dots- earth, food and healing justice"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-02-27"
 ---
 

@@ -2,7 +2,7 @@
 title: "Action Alert: Contact your representative today about NAFTA 2.0"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-11-05"
 ---
 

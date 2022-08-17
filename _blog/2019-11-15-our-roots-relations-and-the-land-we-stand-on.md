@@ -2,11 +2,11 @@
 title: "Our roots, relations and the land we stand on"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-11-15"
 ---
 
-![](media/tree-roots.png)
+![](/media/tree-roots.png)
 
 Tree roots in upstate New York  
 Photo by Shirley Coenen

@@ -2,11 +2,11 @@
 title: "Meeting times of chaos and challenge"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-03-01"
 ---
 
-[![](media/https-_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1852f78f-52e7-454d-a0aa-be447b707a1e_480x480.jpeg)](http://fccan.org/wp-content/uploads/2022/03/https-_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1852f78f-52e7-454d-a0aa-be447b707a1e_480x480.jpeg)
+[![](/media/https-_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1852f78f-52e7-454d-a0aa-be447b707a1e_480x480.jpeg)](http://fccan.org/wp-content/uploads/2022/03/https-_bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com_public_images_1852f78f-52e7-454d-a0aa-be447b707a1e_480x480.jpeg)
 
 _Art by @chiara.acu_
 

@@ -2,13 +2,13 @@
 title: "Action Items For the Start of Autumn"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-09-25"
 ---
 
 We recently had our healing justice workshop at The Growing Project Farm, and enjoyed celebrating the Autumn Equinox with the community. From those gatherings we've complied a simple but soothing balm that is the following list of recommended ways to spend the start of the newest season... have anymore suggestions, feedback or ideas? Send them our [way.](http://fccan.org/contact/)
 
-![](media/Exploring-horizons-1024x1024.png)
+![](/media/Exploring-horizons-1024x1024.png)
 
 If you are white talk compassionately with family and friends about whiteness and racism. Be compassionate to heal ancestral cycles of trauma and abuse.
 

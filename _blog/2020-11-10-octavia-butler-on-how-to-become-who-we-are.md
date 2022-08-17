@@ -2,11 +2,11 @@
 title: "Octavia Butler on How to Become who we are"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-11-10"
 ---
 
-![](media/unnamed.jpg)
+![](/media/unnamed.jpg)
 
 Octavia Butler by Katy Horan from [_Literary Witches_](https://www.brainpickings.org/2018/02/07/literary-witches/) — an illustrated celebration of women writers who have enchanted and transformed our world.
 

@@ -2,7 +2,7 @@
 title: "What a mess this is, alongside a glimmer of hope."
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-10-19"
 ---
 

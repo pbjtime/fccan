@@ -2,17 +2,17 @@
 title: "Welcome to TimePeace"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-05-24"
 ---
 
-[![](media/TimePeaceMasthead-300x82.jpg)](http://fccan.org/uncategorized/coming-soon/attachment/timepeacemasthead/)
+[![](/media/TimePeaceMasthead-300x82.jpg)](http://fccan.org/uncategorized/coming-soon/attachment/timepeacemasthead/)
 
 A chronicle of social justice activism in Fort Collins, _TimePeace_ has twice surfaced as a print publication, first in the 1980’s by the Foothills Peace Center, and then twenty years later by the Fort Collins Community Action Network. Many of the issues discussed in the now 30-year history of _TimePeace_ are still painfully relevant: homelessness, civil liberties violations, the unsettled alliance between feminism and peace activism to name just a few. In order to keep these conversations alive and meaningful, we bring you _TimePeace_ in the format of a blog. Here we will be highlighting the organizing work that stems from this long lineage of grassroots activism in Fort Collins with guest writers from the community, our [affiliate groups](http://fccan.org/affiliates/), [members of the spokes council](http://fccan.org/meet-us/), and all of the activist circles in between and amongst FCCAN has been fostering for the past twenty plus years.
 
 **For our first post, we are so excited to bring you a flash from the past- an excerpt of one of our first _TimePeac_e newsletters back in 1989.**
 
-**[![](media/clip-from-TimePiece-1989-300x108.png)](http://fccan.org/uncategorized/coming-soon/attachment/clip-from-timepiece-1989/)Feminism: An Introduction**
+**[![](/media/clip-from-TimePiece-1989-300x108.png)](http://fccan.org/uncategorized/coming-soon/attachment/clip-from-timepiece-1989/)Feminism: An Introduction**
 
 By: Sally Norman
 
@@ -20,7 +20,7 @@ One of the most potent features of patriarchy is its invisibility- its ability t
 
 It requires us to question every institution in our society; to risk horror and anger; and above all, to lead the examined life...This issue of _Timepiece_ is a forum of Fort Collins people exploring their perspective of feminism. It is offered in the belief that peace is **not** just the absence of war. It also requires the dismantling of those aspects of society- of our daily lives- which do violence to our persons and spirits.
 
-![](media/clip-2-from-timepiece-1989-300x224.png)
+![](/media/clip-2-from-timepiece-1989-300x224.png)
 
 **Excerpt of The Uneasy Alliance Between Feminism & The Peace Movement: One Woman's Perspective**
 

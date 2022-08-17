@@ -195,6 +195,7 @@ collections:
     summary: "{{year}}-{{month}}-{{day}}-{{title}}"
     create: true
     identifier_field: "title"
+    sortable_fields: ['date']
     editor:
       preview: false
     fields:
@@ -210,6 +211,7 @@ collections:
     summary: "{{year}}-{{month}}-{{day}}-{{blog}}"
     create: true
     identifier_field: "title"
+    sortable_fields: ['date']
     editor:
       preview: false
     fields:

@@ -2,7 +2,7 @@
 title: "#FreePalestine and following the ones who know the way"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-05-15"
 ---
 
@@ -12,7 +12,7 @@ The conversation about “Israel vs Palestine” is wrought with intense feeling
 
 **The US is not only complicit in the violence and occupation of Palestine, it’s deeply invested. We have a part to play in this. Here’s how you can take action**:
 
-[![](media/unnamed.jpg)](http://fccan.org/wp-content/uploads/2021/05/unnamed.jpg)
+[![](/media/unnamed.jpg)](http://fccan.org/wp-content/uploads/2021/05/unnamed.jpg)
 
 - **PRESSURE US GOVERNMENT.** Demand that the US a) end military funding to apartheid Israel and similarly criminal regimes of oppression worldwide, (b) ban all goods/services of companies operating in Israel’s illegal colonial settlements; and (c) demand a UN investigation of Israeli apartheid. [Sign here.](https://email.mg2.substack.com/c/eJwlkLtuwzAMRb8mGg09LFUeNBRoM7RLOxQdDT1oR40su5LcwPn6yjFAkMMlccBjdYFxTpta5lzQ3vqyLaAi3HKAUiChNUPqvVOUd1gwzJBTrSOSS-RzPySASfugSloBLasJ3uri57hfMEqfOnRRRgoQlHDNNBdGSiO6gWLaCemIHSQ_uHp1HqIFBX-QtjkCCupSypJP7PlEz7Uy2DVB88i13SmNnacaEPP1cn5Lv_31-87zz_srbPPHJ0VeVQzBnLSkbQXFDWnEQCURUjhjWg7YAJEdt7rrOHXgsDm1eBppk1eTi7bXHYCSyhefAmzNdG0CrHGsW-P-9iOuX_d1Tmv0ZeshahPAHULK4fWhqB8hQqq-Xa-LIlUIxoxLziQ7BOzGBGtlFY0q3831Kipb7vEGIfwDQI6Oqg)
 - **SUPPORT H.R. 2590:** Representative Betty McCollum's historic bill, H.R. 2590, the Palestinian Children and Families Act ‘insists on the rights to safety, dignity, and freedom for the Palestinian people: the freedom to thrive, free from child detention, home demolitions, continual Israeli annexation and land theft. **[Tweet your Congress Members](https://email.mg2.substack.com/c/eJwlkUluxCAQRU9jlhZz8IJFpKivYTFUu0kwdhi65Zw-uC2hogr09b9eOVNh2fKh961UdJa5HjvoBK8SoVbIqBXIc_CaiglLhhnymnuihEKhzPcMsJoQdc0N0N5sDM7UsKVTwSj9mNBD350zThKw3JEJe6UEAAF39xRjApJevqb5AMmBhifkY0uAon7UupeBfQ701s-yfI9by_v2gmxNgTFB7c8uPIPLa-_OJCEtvWs5DuzWBvZFKJHTQOVv8H0SmCg-cRQ0xZRgQTjhXFI8klHeqSJSSW8tF4AtEDUJZ6ZJUA8e24HjdaFjabZU435Gt60o6_IIOcIxrj9jhNa9OV7OGO_vzmPu99pSqMcMydgI_kJVL-JvePMCCXLfhJ9N1UT2YJgJJZhiF5qTpWRc9RWg7u-3rkra1b_0ghj_AX3vlcI)** to become co-sponsors. 

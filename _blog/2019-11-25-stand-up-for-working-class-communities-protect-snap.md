@@ -2,13 +2,13 @@
 title: "Stand up for working class communities-Protect SNAP!"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-11-25"
 ---
 
 _This blog post first appeared on Hunger Free Colorado's website, and was reposted here with their permission, find out more info_ [_here_](http://blog.hungerfreecolorado.org/news/the-latest-attack-on-snap-standard-utility-allowance-rule-proposal/) _or email Anya@HungerFreeColorado.org._
 
-![](media/Stand-up-for-SNAP_-Call-for-Action.png)
+![](/media/Stand-up-for-SNAP_-Call-for-Action.png)
 
 Key points
 

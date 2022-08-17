@@ -2,7 +2,7 @@
 title: "Womb Wisdom"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-06-28"
 ---
 

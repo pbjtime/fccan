@@ -2,11 +2,11 @@
 title: "Current Colorado legislation that impacts immigrants- contact your rep today!"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-03-02"
 ---
 
-[![](media/Abolish-Columbus-Day-1-300x300.png)](http://fccan.org/uncategorized/current-colorado-legislation-that-impacts-immigrants-contact-your-rep-today/attachment/abolish-columbus-day-1/)Calling all voices to consider how you may be able to make a difference in immigration policy! Below are three important bills being considered **right** **now** in the Colorado state legislator.
+[![](/media/Abolish-Columbus-Day-1-300x300.png)](http://fccan.org/uncategorized/current-colorado-legislation-that-impacts-immigrants-contact-your-rep-today/attachment/abolish-columbus-day-1/)Calling all voices to consider how you may be able to make a difference in immigration policy! Below are three important bills being considered **right** **now** in the Colorado state legislator.
 
 Contact your representative to declare your support for these bills!  You can find more information about where the bills are right now in the links!
 

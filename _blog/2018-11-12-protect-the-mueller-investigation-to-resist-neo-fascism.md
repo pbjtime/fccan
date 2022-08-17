@@ -2,7 +2,7 @@
 title: "Protect the Mueller Investigation to Resist Neo-Fascism"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-11-12"
 ---
 

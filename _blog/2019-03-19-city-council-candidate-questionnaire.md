@@ -2,11 +2,11 @@
 title: "City Council Candidate Questionnaire"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-03-19"
 ---
 
-![](media/fc-vote.jpg)
+![](/media/fc-vote.jpg)
 
 The ballets have been sent and the local city council elections are coming up on April 2, 2019! Keep scrolling for the FCCAN questionnaire or [view the PDF](http://fccan.org/wp-content/uploads/2019/03/FCCAN-City-Council-Questionnaire.-pdf.pdf).
 

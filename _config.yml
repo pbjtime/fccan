@@ -87,6 +87,12 @@ collections:
   programs-es:
     output: true
     permalink: /es/programs/:title
+  blog:
+    output: true
+    permalink: /:collection/:title
+  blog-es:
+    output: true
+    permalink: /es/blog/:title
 
 
 social:

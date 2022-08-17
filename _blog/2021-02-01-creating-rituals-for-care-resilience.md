@@ -2,11 +2,11 @@
 title: "Creating Rituals for care & resilience"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-02-01"
 ---
 
-![](media/Crafting-Rituals-for-Care-Resilience-300x300.png)
+![](/media/Crafting-Rituals-for-Care-Resilience-300x300.png)
 
 Right now, we are collectively experiencing a time of complex transitions, uncertainty and unresolved wounds that have disrupted the rhythms of our lives.
 
@@ -14,7 +14,7 @@ Right now, we are also experiencing continuous reflection on what will sustain u
 
 We need ritual because ritual calls us to connect with ourselves, our communities and our desired futures with intention. When we invite ritual into our lives, we say **YES** to creating compelling moments of meaning, care, celebration, acceptance, intimacy and beyond—all bravely turning us toward ourselves and each other. Ritual allows us to build sacred spaces where healing feels possible. As Prentis Hemphill teaches us,
 
-![](media/Prentis-Hemphill-quote-300x293.jpg)
+![](/media/Prentis-Hemphill-quote-300x293.jpg)
 
 When I practice rituals, one of the first acts is an invocation: to call in spirits, energies, and beings with whom you want to work, from whom you want to learn, from whom you long for support, and with whom you want to bear witness. To invoke is to intentionally weave lines of connection and communication- re-aligning with ourselves and the environment around us. Often, through un-intentional habits or routines, or ways of being in our everyday lives we forget and disavow our relationships to our living environment.
 

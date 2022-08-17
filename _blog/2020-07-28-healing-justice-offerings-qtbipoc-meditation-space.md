@@ -2,7 +2,7 @@
 title: "Healing Justice Offerings: QTBIPOC Meditation Space"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-07-28"
 ---
 
@@ -18,7 +18,7 @@ We will make time to be in the spaciousness of our breath, and to ask what our h
 
 If you are not a QTBIPOC, please continue to plug into spaces to unpack internalized anti-Blackness and transphobia over time, and without shame. If you can't find a space that resonates with you, consider starting one with your loved ones. This is how we move with integrity and compassion. We are strong, protected, connected and loved. We need each other. We are all still learning. And so it is.
 
-[![](media/Meditation-for-Queer-Trans-People-of-Color-1024x1024.png)](https://us02web.zoom.us/meeting/register/tZ0kfu6vrDsvHtSwqeSbyOF1v9Ug7wn9zkvC )
+[![](/media/Meditation-for-Queer-Trans-People-of-Color-1024x1024.png)](https://us02web.zoom.us/meeting/register/tZ0kfu6vrDsvHtSwqeSbyOF1v9Ug7wn9zkvC )
 
 **QTBIPOC Meditation**
 

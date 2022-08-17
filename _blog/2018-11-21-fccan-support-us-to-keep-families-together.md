@@ -2,7 +2,7 @@
 title: "Support Us to Keep Families Together"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-11-21"
 ---
 
@@ -24,7 +24,7 @@ Lots of folks in Fort Collins who rely on our work are most affected by the bur
 
 We are writing today to ask you to support our work by becoming a monthly sustainer. We are a small nonprofit, that depends on those in the community who can donate money. When you give to FCCAN know that you are also supporting a large portion of our volunteer activists and leaders who spend time and effort with us but are not in a position to give us money. **PLUS YOU'LL GET A FREE CALENDAR! (KEEP READING!)** 
 
-[![](media/cals-300x209.png)](http://fccan.org/uncategorized/fccan-support-us-to-keep-families-together/attachment/cals/)
+[![](/media/cals-300x209.png)](http://fccan.org/uncategorized/fccan-support-us-to-keep-families-together/attachment/cals/)
 
 When you sign up to become a monthly sustainer at $25 or more, you will be gifted a beautiful 2019 Peace Calendar, which features social justice organizers and resisters from all over the country and the world.
 

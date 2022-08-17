@@ -2,11 +2,11 @@
 title: "Healing Through Remembrance"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-03-16"
 ---
 
-[![](media/unnamed11-1024x384.png)](http://fccan.org/wp-content/uploads/2022/03/unnamed11.png)
+[![](/media/unnamed11-1024x384.png)](http://fccan.org/wp-content/uploads/2022/03/unnamed11.png)
 
 _We wanted to share with you that the collective statement, shared with us by Phi Nguyen, Executive Director at [Advancing Justice - Atlanta with](http://We wanted to share with you that the collective statement, shared with us by Phi Nguyen, Executive  Director at Advancing Justice - Atlanta with links to the collective  statement, an individual sign on, and the launch of the  #RememberingMarch16 artwork series. Please share the collective  statement with your networks and help us uplift the beautiful artwork  for our communities using #RememberingMarch16 in your posts.) and the launch of the #RememberingMarch16 artwork series. Please share the collective statement with your networks and help us uplift the beautiful artwork for our communities using #RememberingMarch16 in your posts._   
 

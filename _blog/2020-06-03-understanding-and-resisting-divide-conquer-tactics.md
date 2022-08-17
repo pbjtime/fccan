@@ -2,7 +2,7 @@
 title: "Understanding and Resisting Divide & Conquer Tactics"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-06-03"
 ---
 

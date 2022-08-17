@@ -2,7 +2,7 @@
 title: "Know Your Rights Resources + BAJI and BLMP statements on the new racist \"travel\" ban"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-02-03"
 ---
 
@@ -14,7 +14,7 @@ Read on for links to multilingual Know Your Rights resources and statements abou
 
 Wishing you all solidarity and liberation this [Black History Month](https://www.instagram.com/p/B8Hd-B0n7sn/)!
 
-[![](media/image.png)](https://www.nlg.org/know-your-rights/)
+[![](/media/image.png)](https://www.nlg.org/know-your-rights/)
 
 In January, the world watched as American military aggression in Iraq towards Iran escalated and fears of (more) war in the Middle East, this time with Iran, intensified. Ongoing economic sanctions negatively impact  the people of Iran every day, however this latest attempt by the American government is now layered with Iran's accidental downing of a passenger flight 752 (killing 167 people) in the days that followed, as well as added fears that have come with intensified scrutiny, questioning and deportation of Iranians at US borders.
 

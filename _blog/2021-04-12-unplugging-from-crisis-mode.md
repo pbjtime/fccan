@@ -2,7 +2,7 @@
 title: "Unplugging from crisis mode"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-04-12"
 ---
 
@@ -21,7 +21,7 @@ One of our greatest human traits is the ability to see into the future. Focusing
   
 **Surviving and Diving**
 
-[![](media/d0bfb4bb-d1dc-4f68-a11a-f1a7f207b204.png)](http://url5213.altsalt.com/ls/click?upn=BF5OKvWYAJcOFofxFeyZCv7j-2BoIj1dacrUfSXzy1LoLkWcypji-2FTkFMS2u5zv7Jw988HZVOmMNstMNz91PKAU3q5KiUKpP2DhLK-2BW1t6KHI-3DlqLI_THdvoK4FwuZ4BaTv8g1c8fHuMNCLBLErgiGjMpfMHcNyQ9CS66KtEehuTG4HguYumr8qBBrlkFlqJ1JF-2B1k5TDIgej7tLSWFKb5Lvopg-2F04rQF1357RJCGZCDxYl4nrbctzIqG050p2s5644DsLjZTAu41yRw6mny0OMcgdVgjja-2BYHENw0RVwN9tQHLU9SIPS4UR2k4CH5fjTtMcSbCZ8EnMuBi7usiQVPPF7FW81OuHjp27Apm5bAJozh3F3pBEC0mZKYRDxDknXU3JVk3I2C9r7htmsGB9ezTmubgFzu1yf0LxAHMssMo3Nzq9Gp7KdL1aflum0A7MraEVyu6PauYQGtSiwqyJ5IJVcYIB-2BAhef4bpa-2B9EYIPM5sPqip4WOP3uxVlI7tgG10z4Vi-2FRFq2b5rHFJrBFDjys8NVCFmC9CRry1E737RtHap-2Bn2eQodNzLBVOfNvtxmdngiv1cA-3D-3D)
+[![](/media/d0bfb4bb-d1dc-4f68-a11a-f1a7f207b204.png)](http://url5213.altsalt.com/ls/click?upn=BF5OKvWYAJcOFofxFeyZCv7j-2BoIj1dacrUfSXzy1LoLkWcypji-2FTkFMS2u5zv7Jw988HZVOmMNstMNz91PKAU3q5KiUKpP2DhLK-2BW1t6KHI-3DlqLI_THdvoK4FwuZ4BaTv8g1c8fHuMNCLBLErgiGjMpfMHcNyQ9CS66KtEehuTG4HguYumr8qBBrlkFlqJ1JF-2B1k5TDIgej7tLSWFKb5Lvopg-2F04rQF1357RJCGZCDxYl4nrbctzIqG050p2s5644DsLjZTAu41yRw6mny0OMcgdVgjja-2BYHENw0RVwN9tQHLU9SIPS4UR2k4CH5fjTtMcSbCZ8EnMuBi7usiQVPPF7FW81OuHjp27Apm5bAJozh3F3pBEC0mZKYRDxDknXU3JVk3I2C9r7htmsGB9ezTmubgFzu1yf0LxAHMssMo3Nzq9Gp7KdL1aflum0A7MraEVyu6PauYQGtSiwqyJ5IJVcYIB-2BAhef4bpa-2B9EYIPM5sPqip4WOP3uxVlI7tgG10z4Vi-2FRFq2b5rHFJrBFDjys8NVCFmC9CRry1E737RtHap-2Bn2eQodNzLBVOfNvtxmdngiv1cA-3D-3D)
 
 I love this [book of poetry](http://url5213.altsalt.com/ls/click?upn=BF5OKvWYAJcOFofxFeyZCv7j-2BoIj1dacrUfSXzy1LoLkWcypji-2FTkFMS2u5zv7Jw988HZVOmMNstMNz91PKAU3q5KiUKpP2DhLK-2BW1t6KHI-3DTXbQ_THdvoK4FwuZ4BaTv8g1c8fHuMNCLBLErgiGjMpfMHcNyQ9CS66KtEehuTG4HguYumr8qBBrlkFlqJ1JF-2B1k5TDIgej7tLSWFKb5Lvopg-2F04rQF1357RJCGZCDxYl4nrbctzIqG050p2s5644DsLjZTAu41yRw6mny0OMcgdVgjja-2BYHENw0RVwN9tQHLU9SIPS4UR2k4CH5fjTtMcSbCZ8EnMuBi7usiQVPPF7FW81MygMwUgL-2BShQaU4NK21AT3cybD1U4Px-2FAwYjVBXQRjO6ogACgH3d4Dj0XGlC2bOzMf9u8toQHYwf2PEG8yeJM-2BQ80npAAM6JVkUUsZpHptLHb99h-2Bp3BVjh1TboXsTXa97iJJMi3G4IGT3y0ReAyjtFFr1LXPMeDB4XF-2B2vo0F8fFFQCbSm-2BvxqyetQQMfgQXVIsba1L3T44XHPJxxVGYApuXcEpXXUCDeSRupSBuwqw-3D-3D) by Brian Walker reflecting on the tumultuous events of 2020, from the election, to BLM, to the pandemic and racism. To read this helped in my own processing of those events; some refrains have stuck with me, and even feel like a part of me.  
   

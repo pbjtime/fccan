@@ -2,7 +2,7 @@
 title: "Acknowledging the Land and Its Indigenous Peoples"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-06-03"
 ---
 
@@ -14,7 +14,7 @@ My ethnicity was always a big mystery growing up in Fort Collins. I don’t have
 
 When I first read the university-wide land acknowledgement, I thought to myself “Oh, I’m reading about myself!” Like the land, I need to be acknowledged in all my complicated history. Like the land, people (myself included) have forgotten who I am and need reminding. **Like the land, I was** _**Mexicana**_ **once, and I am Indigenous always.**
 
-![](media/pasted-image-0.png)
+![](/media/pasted-image-0.png)
 
 > So, the land acknowledgement has become an important personal and political experience in recognizing and being recognized.
 

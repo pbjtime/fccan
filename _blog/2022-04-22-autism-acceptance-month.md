@@ -2,7 +2,7 @@
 title: "Autism Acceptance Month"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-04-22"
 ---
 

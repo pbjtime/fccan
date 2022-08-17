@@ -2,7 +2,7 @@
 title: "Fort Collins Homeless Coalition: Dedicated to the decriminalization of poverty"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-08-16"
 ---
 

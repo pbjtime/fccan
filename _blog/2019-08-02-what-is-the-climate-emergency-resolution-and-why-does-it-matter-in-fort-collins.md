@@ -2,7 +2,7 @@
 title: "What is the Climate Emergency Resolution and Why Does it Matter in Fort Collins?"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-08-02"
 ---
 
@@ -10,7 +10,7 @@ As residents of Fort Collins and surrounding areas, we all need to show up at th
 
 The evidence is overwhelming that, despite the fact that Fort Collins has an ambitious Climate Action Plan, the national and global preparation for climate breakdown is inadequate.
 
-![](media/67611350_2512329912140036_4663952390280445952_n.jpg)
+![](/media/67611350_2512329912140036_4663952390280445952_n.jpg)
 
 Photo courtesy of Janie Stein
 
@@ -50,6 +50,6 @@ Both the FCSG and XRFC believe that Fort Collins – together with other cities 
 
 **That’s why the FCSG and XRFC tare joining together to push for approval of the Climate Emergency Resolution at the August 20 city council meeting.**
 
-![](media/64566554_2428954233810938_162748315279032320_o-1024x498.jpg)
+![](/media/64566554_2428954233810938_162748315279032320_o-1024x498.jpg)
 
 Photo courtesy of Extinction Rebellion Facebook Page

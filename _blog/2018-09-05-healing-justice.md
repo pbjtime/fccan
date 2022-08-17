@@ -2,7 +2,7 @@
 title: "Healing Justice"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-09-05"
 ---
 
@@ -12,7 +12,7 @@ This Friday, we are holding space for what we're calling, Healing Justice, where
 
 In this blog post, I will be sharing a preview of this work we must do together.
 
-[![](media/flyer-2-page-001-232x300.jpg)](http://fccan.org/event/healing-justice-fccan-fundraiser/attachment/flyer-2-page-001/)
+[![](/media/flyer-2-page-001-232x300.jpg)](http://fccan.org/event/healing-justice-fccan-fundraiser/attachment/flyer-2-page-001/)
 
 **The untold story of internalized violence**
 

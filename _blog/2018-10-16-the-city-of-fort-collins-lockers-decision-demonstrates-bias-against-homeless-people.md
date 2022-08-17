@@ -2,15 +2,15 @@
 title: "The City of Fort Collins' Lockers Decision Demonstrates Bias Against Homeless People"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-10-16"
 ---
 
 _A statement by the Fort Collins Homeless Coalition_
 
-[![](media/fchc_logo_color5-300x288-300x288.png)](http://fccan.org/event/fort-collins-homeless-coalition-general-meeting/attachment/fchc_logo_color5-300x288/)
+[![](/media/fchc_logo_color5-300x288-300x288.png)](http://fccan.org/event/fort-collins-homeless-coalition-general-meeting/attachment/fchc_logo_color5-300x288/)
 
-\[caption id="attachment\_1034" align="alignnone" width="300"\][![](media/10-10-18-300x180.jpg)](http://fccan.org/uncategorized/the-city-of-fort-collins-lockers-decision-demonstrates-bias-against-homeless-people/attachment/10-10-18/) Community members showed up outside of City Council to rally in support of 24-7 lockers last Tuesday.\[/caption\]
+\[caption id="attachment\_1034" align="alignnone" width="300"\][![](/media/10-10-18-300x180.jpg)](http://fccan.org/uncategorized/the-city-of-fort-collins-lockers-decision-demonstrates-bias-against-homeless-people/attachment/10-10-18/) Community members showed up outside of City Council to rally in support of 24-7 lockers last Tuesday.\[/caption\]
 
  
 

@@ -2,7 +2,7 @@
 title: "Luz en lo Oscura"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-05-19"
 ---
 
@@ -12,7 +12,7 @@ In "[Light in the Dark/Luz en lo Oscura](https://www.dukeupress.edu/light-in-the
 
 As many students and educators are taking deep sighs of relief and closing their textbooks, I'm looking forward to keep reading, without a seminar or school to hold me accountable. This post is a brief reflection sharing what I'm reading right now and how Anzaldua, as an ancestor, provides so many lessons for these times.
 
-[![Light in the Dark⁄Luz en lo Oscuro](media/978-0-8223-6009-4_pr.jpg)](https://www.dukeupress.edu/light-in-the-dark-luz-en-lo-oscuro)
+[![Light in the Dark⁄Luz en lo Oscuro](/media/978-0-8223-6009-4_pr.jpg)](https://www.dukeupress.edu/light-in-the-dark-luz-en-lo-oscuro)
 
   
 To Anzaldua, these shocks that disrupt our daily life create dissociation and fragmentation of the self and society, tearing through the fabric of "the illusion of consensual reality" of global extractive systems, and giving us the opportunity for "otra forma de ver" - other ways of seeing.

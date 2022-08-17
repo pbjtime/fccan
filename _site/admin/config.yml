@@ -191,73 +191,35 @@ collections:
   - label: "Blog English"
     name: "blog-en"
     folder: "_blog"
-    slug: "{{title}}"
-    summary: "{{title}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+    summary: "{{year}}-{{month}}-{{day}}-{{title}}"
     create: true
     identifier_field: "title"
+    sortable_fields: ['date']
     editor:
       preview: false
     fields:
-      - label: "Picture"
-        name: "picture"
-        widget: "image"
-        required: false
-        media_library:
-          config:
-            multiple: false
-      - label: "Files (English)"
-        name: "files"
-        widget: "file"
-        required: false
-        media_library:
-          config:
-            multiple: true
-      - label: "Files (Additional)"
-        name: "files-etc"
-        widget: "file"
-        required: false
-        media_library:
-          config:
-            multiple: true
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
-      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Blog Spanish"
     name: "blog-es"
     folder: "_blog-es"
-    slug: "{{title}}"
-    summary: "{{title}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{blog}}"
+    summary: "{{year}}-{{month}}-{{day}}-{{blog}}"
     create: true
     identifier_field: "title"
+    sortable_fields: ['date']
     editor:
       preview: false
     fields:
-      - label: "Picture"
-        name: "picture"
-        widget: "image"
-        required: false
-        media_library:
-          config:
-            multiple: false
-      - label: "Files (English)"
-        name: "files"
-        widget: "file"
-        required: false
-        media_library:
-          config:
-            multiple: true
-      - label: "Files (Additional)"
-        name: "files-etc"
-        widget: "file"
-        required: false
-        media_library:
-          config:
-            multiple: true
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
-      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
       - { label: "Blog in English", name: "blog", widget: "relation", collection: "blog-en", search_fields: ["title"], value_field: "title"}
   - label: "Staff Members"
     name: "staff"

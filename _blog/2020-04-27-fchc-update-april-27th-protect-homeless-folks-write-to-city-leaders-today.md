@@ -2,7 +2,7 @@
 title: "FCHC Update April 27th: Protect Homeless Folks & Write to City Leaders Today"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-04-27"
 ---
 

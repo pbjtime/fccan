@@ -2,7 +2,7 @@
 title: "Reflecting on 2021 Accomplishments"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-12-14"
 ---
 

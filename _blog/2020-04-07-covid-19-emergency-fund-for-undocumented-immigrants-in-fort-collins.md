@@ -2,11 +2,11 @@
 title: "COVID-19 Emergency Fund for Undocumented Immigrants in Fort Collins"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-04-07"
 ---
 
-![](media/Abolish-Columbus-Day-1024x1024.png)
+![](/media/Abolish-Columbus-Day-1024x1024.png)
 
 If you, or someone you know would like to apply for this fund please call Fuerza Latina's hotline at 970-472-1501.
 

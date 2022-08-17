@@ -2,7 +2,7 @@
 title: "FCCAN & FCSG Joint Announcement"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-10-23"
 ---
 

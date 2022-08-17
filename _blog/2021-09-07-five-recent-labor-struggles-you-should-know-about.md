@@ -2,11 +2,11 @@
 title: "Five recent labor struggles you should know about"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-09-07"
 ---
 
-[![](media/unnamed.jpg)](http://fccan.org/wp-content/uploads/2021/09/unnamed.jpg)
+[![](/media/unnamed.jpg)](http://fccan.org/wp-content/uploads/2021/09/unnamed.jpg)
 
 _\*This post was originally shared on the Chicago based, workers owned cooperative, [Tesa Collective's](https://www.tesacollective.com/five-recent-labor-struggles-you-should-know-about/?link_id=1&can_id=d570fbc7667766e0175bc13db39d7a03&source=email-five-recent-labor-struggles-you-should-know-about&email_referrer=email_1281412&email_subject=five-recent-labor-struggles-you-should-know-about) blog, and posted here with their permission._
 

@@ -2,7 +2,7 @@
 title: "Community Accountability and the Proposed Larimer County Jail Expansion"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-05-23"
 ---
 

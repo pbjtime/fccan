@@ -2,7 +2,7 @@
 title: "🎉🎉 WE DID IT! Our Immigration Bills are Now Law in CO! // ¡LO HICIMOS! ¡Nuestros proyectos de ley ahora son ley en CO! 🎉🎉"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-07-01"
 ---
 

@@ -2,7 +2,7 @@
 title: "Basic Security Practices for Organizers"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-02-17"
 ---
 

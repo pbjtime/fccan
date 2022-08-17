@@ -2,7 +2,7 @@
 title: "Healing Justice as Community Organizing"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-09-04"
 ---
 

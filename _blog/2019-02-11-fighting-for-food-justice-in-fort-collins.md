@@ -2,7 +2,7 @@
 title: "Fighting for Food Justice in Fort Collins"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-02-11"
 ---
 
@@ -10,13 +10,13 @@ _Note: On Sunday, February 10th the Fort Collins Homeless Coalition (FCHC) organ
 
   
 
-- ![](media/2377972168502761601-1-576x1024.jpg)
+- ![](/media/2377972168502761601-1-576x1024.jpg)
     
-- ![](media/3318050542002672982-1024x576.jpg)
+- ![](/media/3318050542002672982-1024x576.jpg)
     
-- ![](media/7468069210585484604-1-576x1024.jpg)
+- ![](/media/7468069210585484604-1-576x1024.jpg)
     
-- ![](media/1869724602467811486-576x1024.jpg)
+- ![](/media/1869724602467811486-576x1024.jpg)
     
 
 **By: Food Not Bombs, FoCo**

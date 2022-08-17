@@ -2,7 +2,7 @@
 title: "Addressing the Gentrification of Jefferson Park"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-12-04"
 ---
 
@@ -12,7 +12,7 @@ _This was originally published in the Coloradoan's Newspaper [here](https://www.
 
 By: Shirley Coenen, Fort Collins
 
-\[caption id="attachment\_1099" align="alignnone" width="300"\][![](media/downtown-for-everyone-300x158.jpeg)](http://fccan.org/uncategorized/coloradoans-letter-to-the-editor-gentrification-of-jefferson-park/attachment/downtown-for-everyone/) Fort Collins Homeless Coalition protesting outside of City Council\[/caption\]
+\[caption id="attachment\_1099" align="alignnone" width="300"\][![](/media/downtown-for-everyone-300x158.jpeg)](http://fccan.org/uncategorized/coloradoans-letter-to-the-editor-gentrification-of-jefferson-park/attachment/downtown-for-everyone/) Fort Collins Homeless Coalition protesting outside of City Council\[/caption\]
 
 A [recent article (Oct. 5)](https://www.coloradoan.com/story/life/food/2018/10/05/fort-collins-restaurants-social-union-rodizio-grill-melting-pot-restaurateurs-empire/1527271002/) featured the owners of several restaurants in Old Town. In its rush to laud local business owners, the Coloradoan failed to address the very real consequences that gentrification is having on marginalized people in this community.
 

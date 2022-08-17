@@ -2,7 +2,7 @@
 title: "Reflections on local jail politics and moving forward"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-07-24"
 ---
 
@@ -10,7 +10,7 @@ By: The Fort Collins Homeless Coalition & Fuerza Latina
 
 The Fort Collins Homeless Coalition and Fuerza Latina (amongst many other community allies) have been working alongside each other in a [campaign](http://fccan.org/fchc/stop-the-jail-expansion/) to stop the first phase of the expansion of the Larimer County Jail. I won't be rehashing the [details](https://www.coloradoan.com/story/news/2019/07/22/larimer-county-colorado-jail-expansion-approved/1762401001/) or providing any updates here. Rather than being an informative piece this post is one small way for us to process, express, and hopefully provide space for others in the community to reflect on their own complicity and activism around violence, incarceration and community accountability. This is important because our work doesn't end here, but instead we are taking the time to discuss lessons learned and steps moving forward in building a grassroots movement against mass incarceration and criminalization.
 
-![](media/4-Sarah-Farahat-Everybodys-Got-a-Right-to-Live-683x1024.jpg)
+![](/media/4-Sarah-Farahat-Everybodys-Got-a-Right-to-Live-683x1024.jpg)
 
 Artwork by Sarah Farahat
 
@@ -26,7 +26,7 @@ In other words, police have internalized the mission of social welfare organizat
 
 At the same time, agencies whose mission has never been about policing and punishment—let’s say the United States Department of Education, or to take it to the local level, any number of service agencies/ charities in Fort Collins (for example both [Outreach Fort Collins](https://www.outreachfortcollins.org/), [Homeward Alliance](https://www.homewardalliance.org/) have police/sheriff on their board) have internalized the mission of policing in order to allocate the scarce resources that they have between the so-called deserving and the undeserving. There are countless examples of this, but one poignant one that we like to use as an example is the United States Department of Education has a SWAT team. Why would they have a SWAT team? To legitimize what they do in the eyes of the completely delegitimized, and yet still large, set of agencies whose work is supposed to be social welfare, social benefits, and dare we say, safety.
 
-![](media/9-ABO-Comic-Dont-Call-the-Cops-1024x834.jpg)
+![](/media/9-ABO-Comic-Dont-Call-the-Cops-1024x834.jpg)
 
 Sketch by Juan Gomez
 

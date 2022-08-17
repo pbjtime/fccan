@@ -2,7 +2,7 @@
 title: "Feeling, Grieving and Organizing"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-08-10"
 ---
 

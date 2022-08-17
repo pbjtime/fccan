@@ -2,7 +2,7 @@
 title: "Envisioning Abolition"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-12-29"
 ---
 
@@ -16,7 +16,7 @@ For many white people, and for many people in this police state in general, a kn
 For a large part of my time interning at FCCAN, I have been working through an [abolition study guide](https://abolitionjournal.org/studyguide/) with fellow FCCAN members and friends. I also facilitated a workshop on Power, Abolition, & Healing Justice taught by Cesia Dominguez Lopez from [Color Coded](https://colorcoded.la/). I highly recommend  
 checking out both of these links for further resources and to learn more about abolition.
 
-![](media/Copy-of-quotes-1024x536.png)
+![](/media/Copy-of-quotes-1024x536.png)
 
 For me, this quote by RWG continuously reminds me of what it means to be an advocate for abolition and what needs to be created and imagined for the future.
 

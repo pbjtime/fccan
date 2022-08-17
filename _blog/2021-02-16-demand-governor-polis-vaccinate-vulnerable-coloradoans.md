@@ -2,14 +2,14 @@
 title: "Demand Governor Polis Vaccinate Vulnerable Coloradoans"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-02-16"
 ---
 
 **  
 [Please sign and share this petition!](https://actionnetwork.org/petitions/urge-governor-polis-to-adopt-an-equitable-vaccine-schedule?source=direct_link&) by March 1st, and demand that Governor Polis offer vaccines to people in prisons and jails and to people experiencing homelessness.**
 
-[![](media/Copy-of-Copy-of-Fuerza-Latina-Presents-1-1024x1024.png)](https://actionnetwork.org/petitions/urge-governor-polis-to-adopt-an-equitable-vaccine-schedule?source=direct_link&)
+[![](/media/Copy-of-Copy-of-Fuerza-Latina-Presents-1-1024x1024.png)](https://actionnetwork.org/petitions/urge-governor-polis-to-adopt-an-equitable-vaccine-schedule?source=direct_link&)
 
 Undeniably, the COVID-19 pandemic has revealed massive inequities in our healthcare system and throughout society. With his vaccine schedule, Governor Polis is reinforcing these inequities in Colorado. This is disturbingly evident when we look at prisons and homeless shelters.  
 According to the COVID-19 Racial Data Tracker ,the county with the highest COVID-19 cases per capita in the entire United States is Crowley County, Colorado. The 5th highest is Bent County, Colorado. What these two communities have in common is that they house private, medium-security prisons. Statewide, Colorado prisons have seen 7,842 COVID cases with a rate of 4,459 per 10,000 prisoners. Compare that to the overall COVID state rate of 676 per 10,000. 

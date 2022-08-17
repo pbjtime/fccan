@@ -2,15 +2,15 @@
 title: "No War with Iran: Contact our representatives"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-01-06"
 ---
 
-- ![](media/82103496_10157125879388667_7547182760926904320_n.jpg)
+- ![](/media/82103496_10157125879388667_7547182760926904320_n.jpg)
     
-- ![](media/81199913_10157125880908667_987787798851354624_n.jpg)
+- ![](/media/81199913_10157125880908667_987787798851354624_n.jpg)
     
-- ![](media/81994420_1402618523253789_1946413358173388800_n.jpg)
+- ![](/media/81994420_1402618523253789_1946413358173388800_n.jpg)
     
 
 _Photos from Saturday's protest in old town Fort Collins_

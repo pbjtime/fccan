@@ -2,7 +2,7 @@
 title: "Creating Community Spaces Together"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2022-06-06"
 ---
 

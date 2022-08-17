@@ -2,7 +2,7 @@
 title: "Reflections on ancestors, whiteness and environmental justice"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-06-02"
 ---
 
@@ -13,7 +13,7 @@ With my time as an intern for FCCAN coming to an end, I’ve been reflecting on 
   
 I was born to young and poor parents struggling to make it by in rural Kansas. My family moved to Colorado when I was ten, in hopes of a more promising future. Similar to my parents, both my paternal and maternal great grandparents came to the Great Plains in search of opportunity and to escape famine, assimilation, and displacement. My mother is Swedish and Volga German and, from what my Father knows, he is of Irish and Volga German descent. Both families were able to take advantage of the Homestead Act, acquiring stolen land to settle and farm in Kansas, Nebraska, and South Dakota. While digging through my family history I Iearned that my Great Grandfather wanted to immigrate to America because of the shortage of food in Gotland, Sweden. Similarly, my Volga German family came to the States during the turn of the century, escaping famine and the growing anti-German sentiment from the Russian monarchy.
 
-[![](media/IMG_2885-1024x473.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2885.jpeg)
+[![](/media/IMG_2885-1024x473.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2885.jpeg)
 
 The farm that my dad grew up on
 
@@ -23,7 +23,7 @@ While the Volga Germans were facing increasing conflict, and by the 1920’s wou
   
 While my great grandparents and their families sought refuge in the Great Plains, this opportunity came at a great cost and environmental injustices claimed the lives of most of them, leaving the small family I now have today. Most of my extended family and many of my immediate family have died from rare forms of cancer. Growing up in Kansas, in poor and rural areas, my Great grandparents and Grandparents had farmed wheat, corn, and worked in hog farms. Both my parents remember the green and pink pesticide clouds that would be sprayed over their houses. My Dad recounted that he would be playing outside when the planes would come, and my grandmother would be at the door screaming for him to run back to the house. He would often get stuck in the clouds. Similarly, he remembers the run-off lagoon at the hog farm and the horrifying smell in the air that he said, “stuck to my skin and clothes.”
 
-[![](media/IMG_2883-1024x768.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2883-scaled.jpeg)
+[![](/media/IMG_2883-1024x768.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2883-scaled.jpeg)
 
 Here is my mom's family in Kansas during the dust bowl:
 
@@ -45,7 +45,7 @@ of this story that I hope leaves with you as a reader.** Environmental justice i
 intentional and as a direct result of populations marked as “surplus” or “sacrificial”.  
 White settlers experiencing environmental injustices is not uncommon, for anyone can be impacted by EJ. However, white settlers, like my family, are often able to remove themselves from an environmental justice situation. Or they are able to leverage their privileges and bring to light the EJ issues that is impacting them--and sometimes even before it does impact them (i.e. DAPL was originally planned underneath Bismarck, ND). My family can serve as an example where they had enough generational wealth from allotted property, that many could afford medical expenses or move out of the area.
 
-- [![](media/IMG_2882-1024x1021.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2882-scaled.jpeg)
+- [![](/media/IMG_2882-1024x1021.jpeg)](http://fccan.org/wp-content/uploads/2021/06/IMG_2882-scaled.jpeg)
     
 
 Swedish Tapestry from my parents house

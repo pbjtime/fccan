@@ -2,7 +2,7 @@
 title: "November family time & Reflecting on being an immigrant family"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-11-11"
 ---
 

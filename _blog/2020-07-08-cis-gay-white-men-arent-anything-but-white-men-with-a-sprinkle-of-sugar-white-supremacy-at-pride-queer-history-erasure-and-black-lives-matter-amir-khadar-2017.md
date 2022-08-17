@@ -2,7 +2,7 @@
 title: "“Cis gay white men aren’t anything but white men with a sprinkle of sugar”-- White Supremacy at Pride, Queer History Erasure, and Black Lives Matter (Amir Khadar, 2017)"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-07-08"
 ---
 

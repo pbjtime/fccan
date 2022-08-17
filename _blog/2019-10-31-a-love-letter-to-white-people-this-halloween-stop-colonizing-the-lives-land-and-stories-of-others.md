@@ -2,7 +2,7 @@
 title: "A love letter to white people this Halloween: Stop colonizing the lives, land, and stories of others."
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-10-31"
 ---
 

@@ -2,11 +2,11 @@
 title: "The land holds memories"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-10-01"
 ---
 
-![](media/council-tree-799x1024.jpg)
+![](/media/council-tree-799x1024.jpg)
 
 _**The Council Tree was a well-known gathering point for Arapaho and other Native people on what is now the southeast side of Fort Collins. The tree is referenced in names for a city library branch, a street, and a church. Photo: Colorado State University Libraries, Archives & Special Collections**_
 

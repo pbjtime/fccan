@@ -2,7 +2,7 @@
 title: "FCCAN Public Statement against the nomination of Judge Kavanaugh"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-10-04"
 ---
 

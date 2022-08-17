@@ -2,7 +2,7 @@
 title: "Yo Soy una inmigrante en Fort Collins- Una Mensaje de Fuerza Latina"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-10-25"
 ---
 

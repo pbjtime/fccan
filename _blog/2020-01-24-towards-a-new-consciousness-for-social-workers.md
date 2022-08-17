@@ -2,7 +2,7 @@
 title: "Towards a New Consciousness for Social Workers"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-01-24"
 ---
 
@@ -32,7 +32,7 @@ Every Nation that was forced off of their lands, every person that was placed in
 
 Understanding this history is crucial because social work scholarship and practice frequently repeats the same oppressive, genocidal actions of its history.
 
-![](media/Untitled.png)
+![](/media/Untitled.png)
 
 **Third Space consciousness**
 

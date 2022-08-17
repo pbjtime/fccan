@@ -2,11 +2,11 @@
 title: "Community Leaders Must Act Now to Provide Housing for All"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-04-02"
 ---
 
-![](media/fort-collins-homeless-coalition-3-1024x1024.png)
+![](/media/fort-collins-homeless-coalition-3-1024x1024.png)
 
 This was oringially published in [The Coloradoan](https://www.coloradoan.com/story/opinion/2020/03/30/opinion-community-leaders-must-act-provide-housing-all/2931290001/)
 

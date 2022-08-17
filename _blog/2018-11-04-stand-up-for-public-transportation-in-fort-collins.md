@@ -2,11 +2,11 @@
 title: "Stand up for Disability Justice in Fort Collins"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2018-11-04"
 ---
 
-[![](media/disjus-300x221.png)](http://fccan.org/uncategorized/stand-up-for-public-transportation-in-fort-collins/attachment/disjus/)
+[![](/media/disjus-300x221.png)](http://fccan.org/uncategorized/stand-up-for-public-transportation-in-fort-collins/attachment/disjus/)
 
 As members of Barrier Buster/ Public Transit Action Group, we advocate for the rights and dignity of people living in our community that have disabilities. We also stand in solidarity with undocumented, unsheltered, and other vulnerable people.
 
@@ -20,7 +20,7 @@ It is in this tradition that BB/PTAG presents you with our suggested funding off
 
 **If you can- we encourage you to show up at City Council on Tuesday night to speak about the following proposals and if you can't make it in person- you can email [cityleaders@fcgov.com](mailto:cityleaders@fcgov.com) to express your support!** 
 
-[![](media/bb-ptag-photo-300x258.png)](http://fccan.org/uncategorized/stand-up-for-public-transportation-in-fort-collins/attachment/bb-ptag-photo/)
+[![](/media/bb-ptag-photo-300x258.png)](http://fccan.org/uncategorized/stand-up-for-public-transportation-in-fort-collins/attachment/bb-ptag-photo/)
 
 **Public Transportation is about more than just moving people from point A to point B. It’s also a system that can either limit or expand the opportunities available to people based on where they live.**
 

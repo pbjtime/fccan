@@ -2,13 +2,13 @@
 title: "Public Drinking Fountains and Bathrooms: A HUMAN RIGHT"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2019-03-13"
 ---
 
 This article was originally published in the [Journal for Colorado Water Institute](http://cwi.colostate.edu/Media/img/newsletters/2019/CW_36_1.pdf).
 
-![](media/water-as-a-right.png)
+![](/media/water-as-a-right.png)
 
 By: Cheryl Distaso and Sarah King
 
@@ -16,7 +16,7 @@ The Fort Collins Community Action Network (FCCAN), a social justice organization
 
 Several years later, in June of 2008, while tabling at an event in Civic Center Park, we noticed that there were no drinking fountains in the park. Event organizers were selling bottler water for profit. On that hot summer day, many people were forced to purchase water (bottled by large corporations in plastic), something we believe should be freely available, not a commodity.
 
-![](media/water.jpeg)
+![](/media/water.jpeg)
 
 FCCAN followed with a successful campaign to urge the Fort Collins Parks Department to install a drinking fountain at Civic Center Park. However, this fountain, like all of the others in the city at the time, had to be blown out and turned off in the wintertime.
 
@@ -69,7 +69,7 @@ the former drinking fountain in OTS.”_
 
 The [Fort Collins Homeless Coalition (FCHC)](http://fccan.org/fchc/fchc-about/fchc-history/), an affiliate of FCCAN, then contacted the Fort Collins Parks Department to inquire about the possibility of installing a FoCo Café style hydration station in Oak Street Plaza. The plaza is designated a park rather than a downtown property, so the Downtown Development Authority does not have jurisdiction over the area. The FCHC met with Mike Calhoon, Director of the Fort Collins Parks Department, to discuss the prospect of getting such a hydration station installed. Calhoon went to work to research the details necessary to install a hydration station. In May 2018, the Fort Collins Parks Department installed a year-round hydration station downtown in Oak Street Plaza. It includes a water bottle refill station, and continual access to clean and free drinking water. There were no barriers thrown up from the Parks Department; instead they jumped right into the project. The FCHC celebrated with “The People’s Ribbon Cutting (pictured below).  
 
-![](media/32077700_1907328736225343_860611407740141568_o-1024x768.jpg)
+![](/media/32077700_1907328736225343_860611407740141568_o-1024x768.jpg)
 
 In addition to access to clean water, access to public bathrooms is a significant issue in Old Town as well as in the rest of Fort Collins. The only 24/7 public bathroom in Old Town is located at the parking lot on Remington at the Oak Street Parking lot. This bathroom was closed every night before the FCHC lobbied for overnight access.
 

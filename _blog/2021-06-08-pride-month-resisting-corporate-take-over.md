@@ -2,7 +2,7 @@
 title: "Pride Month & Resisting Corporate Take Over"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-06-08"
 ---
 
@@ -26,7 +26,7 @@ The commercialization of Pride Month has blurred and simplified the ways to actu
 
 **It is our job to show solidarity not only during Pride Month, but all year long.** Supporting organizations that are queer-led such as [FCCAN](http://www.fccan.org/donate) and [Fuerza Latina](http://fuerzalatinafoco.org/) is one place to start.
 
-[![](media/Screen-Shot-2021-06-08-at-10.07.28-AM.png)](http://fccan.org/wp-content/uploads/2021/06/Screen-Shot-2021-06-08-at-10.07.28-AM.png)
+[![](/media/Screen-Shot-2021-06-08-at-10.07.28-AM.png)](http://fccan.org/wp-content/uploads/2021/06/Screen-Shot-2021-06-08-at-10.07.28-AM.png)
 
 Here are just a few other queer led healing spaces & movement building spaces we encourage you to support with whatever resources you may have (time, money, spreading the word on social media, etc) :
 

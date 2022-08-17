@@ -2,7 +2,7 @@
 title: "Indigenous Water Protectors and Environmentalists Call on Chase Bank to Divest From Fossil Fuels in solidarity with Wet’suwet’en"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-02-04"
 ---
 
@@ -10,11 +10,11 @@ After over a decade of Wet’suwet’en on the front lines of pipeline construct
 
 On Saturday, February 1st, concerned citizens gathered at the Creekside Park in so called Fort Collins (1851 Fort Laramie Treaty Territory of the Cheyenne and Arapaho Nations)
 
-- ![](media/big-banner.png)
+- ![](/media/big-banner.png)
     
-- ![](media/photo-by-desiree-kane.png)
+- ![](/media/photo-by-desiree-kane.png)
     
-- ![](media/regina.png)
+- ![](/media/regina.png)
     
 
 _May we all learn to love our people and be present like Grandma Regina Brave who visited us this weekend. What a gift she is._

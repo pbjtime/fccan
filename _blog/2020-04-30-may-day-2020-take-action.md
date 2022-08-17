@@ -2,13 +2,13 @@
 title: "May Day 2020: Take Action"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-04-30"
 ---
 
 As Amazon, Walmart and others profit amid Coronavirus crisis, [their essential workers are planning an unprecedented strike](https://itsgoingdown.org/workers-from-amazon-whole-foods-instacart-shipt-speak-out-on-may-1st-strike/). Get ready for May Day.
 
-![](media/EWOQF94WkAArDCt-621x1024.jpg)
+![](/media/EWOQF94WkAArDCt-621x1024.jpg)
 
 **Essential workers risk their lives and their families’ lives every day — they deserve appropriate safety equipment, standards, and job guarantees. On May 1, International Workers Day, we’re taking action with essential workers everywhere:**
 

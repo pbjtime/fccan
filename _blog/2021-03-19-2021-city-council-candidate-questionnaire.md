@@ -2,7 +2,7 @@
 title: "2021 City Council Candidate Questionnaire"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-03-19"
 ---
 

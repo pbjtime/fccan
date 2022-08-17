@@ -2,7 +2,7 @@
 title: "A tribute to María Lugones"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-09-02"
 ---
 
@@ -12,7 +12,7 @@ María Lugones passed away on July 14th, 2020 early in the morning. Her writings
 
 > Since I first heard about her struggle with cancer and subsequently her death earlier this summer, I have been reflecting on both her generosity and playfulness that shape her writings. In 1987 she wrote, _“I am not a healthy being in the ‘worlds’ that construct me unplayful.” She goes to express how she was “scared of ending up a serious human being, someone with no multi-dimensionality, with no fun in life, someone who is just someone who has had the fun constructed out of her. I am seriously scared of getting stuck in a ‘world’ that constructs me that way. A ‘world’ that I have no escape from and in which I cannot be playful.”_
 
-![](media/Quote-Instagram-Post-1-1024x1024.png)
+![](/media/Quote-Instagram-Post-1-1024x1024.png)
 
 Living through these times where there is such a concentrated amount of grief and death and rage, building and traveling to a world that is free of violence and domination feels like both a responsibility and a luxury. Both a defiant act, and an everyday practice of playing with and strengthening my imagination of what's possible. **Lugones' very specific sense of world traveling: not touristic, not exploitative and appropriative, but rather about marginalized subjects intimately learning one another’s worlds is how I've come to be in relationship with those I'm grateful to call my chosen family, my queer family and friends.** 
 

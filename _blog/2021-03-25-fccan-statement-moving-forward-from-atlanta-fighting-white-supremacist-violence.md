@@ -2,7 +2,7 @@
 title: "FCCAN Statement: Moving Forward from Atlanta & Fighting White Supremacist Violence"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2021-03-25"
 ---
 
@@ -10,7 +10,7 @@ date: "2021-03-25"
 > 
 > \-Grace Lee Boggs
 
-[![](media/b5e31863-5cd9-437c-8bc7-c17b8802be72.jpg)](http://fccan.org/wp-content/uploads/2021/03/b5e31863-5cd9-437c-8bc7-c17b8802be72.jpg)
+[![](/media/b5e31863-5cd9-437c-8bc7-c17b8802be72.jpg)](http://fccan.org/wp-content/uploads/2021/03/b5e31863-5cd9-437c-8bc7-c17b8802be72.jpg)
 
   
 

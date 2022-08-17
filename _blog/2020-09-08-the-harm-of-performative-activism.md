@@ -2,7 +2,7 @@
 title: "The Harm of Performative Activism"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-09-08"
 ---
 
@@ -17,7 +17,7 @@ I've observed a few things that are different about the fires in our bellies rig
 As a biracial women in the 21st century, I know when people are “down with the cause”. Whether it be in real life or over social media interactions. Over the summer, everyone was posting squares one day. But then a day went by, a week, a month and nothing else came from those people posting the black squares. Soon enough Instagram was back to normal. I was  
 seeing the normal posts of flashy cars, cute pets and the latest makeup look. The performative activism and fake solidarity was so easy to read.
 
-![](media/Screen-Shot-2020-09-08-at-2.51.39-PM-737x1024.png)
+![](/media/Screen-Shot-2020-09-08-at-2.51.39-PM-737x1024.png)
 
 Art work by YES Magazine Black Lives Matter Issue
 
@@ -26,11 +26,11 @@ I fully acknowledge that forms of activism are necessarily different for differe
 
 But I think over the summer the message just got lost. This white liberal or "woke" ideology has worked its way into our community not just in our social media feeds. I'm not sure where people got the idea that posting a black square would suddenly put them on the good side of things or _down for the cause_ **but let me just say something, surprise, It didn't do anything.**
 
-![](media/what-a-surprise-5c697c.jpg)
+![](/media/what-a-surprise-5c697c.jpg)
 
 You might as well have not posted anything if you weren’t going to do more for the movement. **These are actual lives we are talking about here, not some photo-op to appear more woke to your audience, no matter the size of your audience.** Movement works requires people to imagine a world where public safety does not require racist and violent policing, where there are no racial inequities in health care, and the debts owed by this nation for Black labor are paid. As Layla Saad said, _"The point of anti-racism work is to protect Black lives, so if everything you do is for your benefit, then you're just enhancing white lives."_
 
-![](media/Screen-Shot-2020-06-12-at-2.10.36-PM.png)
+![](/media/Screen-Shot-2020-06-12-at-2.10.36-PM.png)
 
 _\-Layla Saad_
 

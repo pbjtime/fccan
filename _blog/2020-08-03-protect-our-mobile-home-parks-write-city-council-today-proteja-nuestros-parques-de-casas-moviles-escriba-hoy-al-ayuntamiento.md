@@ -2,7 +2,7 @@
 title: "Protect our Mobile Home Parks - Write City Council Today! / Proteja nuestros parques de casas móviles: ¡escriba hoy al Ayuntamiento!"
 layout: post
 associated-group:
-   - fccan
+   - blog
 date: "2020-08-03"
 ---
 
@@ -24,7 +24,7 @@ Fuerza Latina’s position is that we join with Mi Voz and fellow organizations 
 
 Help us our and write to City Council before tomorrow’s first reading and let them know you support the moratorium on development and Option A to protect mobile home park residents in our area: [cityleaders@fcgov.com](mailto:cityleaders@fcgov.com)
 
-![](media/Fuerza-Latina-Presents_-1024x1024.png)
+![](/media/Fuerza-Latina-Presents_-1024x1024.png)
 
 \*\*\*
 
