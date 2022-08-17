@@ -9,21 +9,6 @@ media_folder: "media"
 public_folder: "/media"
 
 collections:
-  - label: "Homepage Sections"
-    name: "homepage-sections"
-    folder: "_homepage-sections"
-    slug: "{{title-en}}"
-    summary: "{{title-en}} -- {{id}} -- {{order}}"
-    create: true
-    editor:
-      preview: true
-    fields:
-      - { label: "Section ID", name: "id", widget: "string", default: "give-me-an-id" }
-      - { label: "Section order", name: "order", widget: "number",  default: 50, valueType: "int", min: 1, max: 101 }
-      - { label: "Section Title (English)", name: "title-en", widget: "string" }
-      - { label: "Section Text (English)", name: "body-en", widget: "markdown" }
-      - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
-      - { label: "Section Text (Spanish)", name: "body-es", widget: "markdown" }
   - label: "Programs English"
     name: "programs-en"
     folder: "_programs"
@@ -92,12 +77,14 @@ collections:
     fields:
       - { label: "Name (English)", name: "title", widget: "string" }
       - { label: "Info (English)", name: "body", widget: "markdown" }
+      - { label: "Name (Spanish)", name: "title", widget: "string" }
+      - { label: "Info (Spanish)", name: "body", widget: "markdown" }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Affiliates"
     name: "affiliates-en"
     folder: "_affiliates"
-    slug: "{{title-en}}"
-    summary: "{{title-en}}"
+    slug: "{{title}}"
+    summary: "{{title}}"
     create: true
     editor:
       preview: false
@@ -109,10 +96,9 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "Org Name (Spanish)", name: "title", widget: "string" }
-      - { label: "About (Spanish)", name: "body", widget: "markdown" }
-      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
-  - label: "Affiliates"
+      - { label: "Org Name (English)", name: "title", widget: "string" }
+      - { label: "About (English)", name: "body", widget: "markdown" }
+  - label: "Affiliates Spanish"
     name: "affiliates-es"
     folder: "_affiliates-es"
     slug: "{{en-affiliate}}"
@@ -128,11 +114,8 @@ collections:
         media_library:
           config:
             multiple: false
-      - { label: "Org Name (English)", name: "title-en", widget: "string" }
-      - { label: "About (English)", name: "body-en", widget: "markdown" }
-      - { label: "Org Name (Spanish)", name: "title-es", widget: "string" }
-      - { label: "About (Spanish)", name: "body-es", widget: "markdown" }
-      - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+      - { label: "Org Name (Spanish)", name: "title", widget: "string" }
+      - { label: "About (Spanish)", name: "body", widget: "markdown" }
       - { label: "Affiliate in English", name: "en-affiliate", widget: "relation", collection: "affiliates-en", search_fields: ["title"], value_field: "title"}
   - label: "Resources"
     name: "resources"
@@ -199,6 +182,13 @@ collections:
     editor:
       preview: false
     fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
@@ -207,20 +197,27 @@ collections:
   - label: "Blog Spanish"
     name: "blog-es"
     folder: "_blog-es"
-    slug: "{{year}}-{{month}}-{{day}}-{{blog}}"
-    summary: "{{year}}-{{month}}-{{day}}-{{blog}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{blog-en}}"
+    summary: "{{year}}-{{month}}-{{day}}-{{blog-en}}"
     create: true
     identifier_field: "title"
     sortable_fields: ['date']
     editor:
       preview: false
     fields:
+      - label: "Picture"
+        name: "picture"
+        widget: "image"
+        required: false
+        media_library:
+          config:
+            multiple: false
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'post' }
       - { label: "Title (English)", name: "title", widget: "string" }
       - { label: "Body (English)", name: "body", widget: "markdown", required: false }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
-      - { label: "Blog in English", name: "blog", widget: "relation", collection: "blog-en", search_fields: ["title"], value_field: "title"}
+      - { label: "Blog in English", name: "blog-en", widget: "relation", collection: "blog-en", search_fields: ["title"], value_field: "title"}
   - label: "Staff Members"
     name: "staff"
     folder: "_staff"

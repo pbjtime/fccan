@@ -47,11 +47,11 @@
               <ul class="dropdown-menu">
                 {% if page.lang == "es" %}
                   {% for affiliate in site.affiliates-es %}
-                  <a href="{{ affiliate.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliate.title-es }}</li></a>
+                  <a href="{{ affiliate.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliate.title }}</li></a>
                   {% endfor %}
                 {% else %}
                   {% for affiliate in site.affiliates %}
-                  <a href="{{ affiliate.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliate.title-en }}</li></a>
+                  <a href="{{ affiliate.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ affiliate.title }}</li></a>
                   {% endfor %}
                 {% endif %}  
               </ul>
