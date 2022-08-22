@@ -1,5 +1,6 @@
 ---
 title: Barrier Busters, Public Transit Action Group
+layout: affiliates
 ---
   ## About Us
 

@@ -1,5 +1,6 @@
 ---
 title: Barrier Busters, Grupo de Acción para el Tránsito Público
+layout: affiliates
 en-affiliate: Barrier Busters, Public Transit Action Group
 ---
 Sobre el grupo

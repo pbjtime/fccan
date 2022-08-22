@@ -77,8 +77,8 @@ collections:
     fields:
       - { label: "Name (English)", name: "title", widget: "string" }
       - { label: "Info (English)", name: "body", widget: "markdown" }
-      - { label: "Name (Spanish)", name: "title", widget: "string" }
-      - { label: "Info (Spanish)", name: "body", widget: "markdown" }
+      - { label: "Name (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Info (Spanish)", name: "body-es", widget: "markdown" }
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
   - label: "Affiliates"
     name: "affiliates-en"
@@ -97,6 +97,7 @@ collections:
           config:
             multiple: false
       - { label: "Org Name (English)", name: "title", widget: "string" }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'affiliates' }
       - { label: "About (English)", name: "body", widget: "markdown" }
   - label: "Affiliates Spanish"
     name: "affiliates-es"
@@ -115,6 +116,7 @@ collections:
           config:
             multiple: false
       - { label: "Org Name (Spanish)", name: "title", widget: "string" }
+      - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'affiliates' }
       - { label: "About (Spanish)", name: "body", widget: "markdown" }
       - { label: "Affiliate in English", name: "en-affiliate", widget: "relation", collection: "affiliates-en", search_fields: ["title"], value_field: "title"}
   - label: "Resources"
