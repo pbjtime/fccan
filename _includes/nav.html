@@ -12,7 +12,7 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarResponsive">
-      <li class="lang_li mobile-lang-select"><a class="lang_a nav-item {% if page.lang == "es" %}{% else %}lang_selected{% endif %}" href="{{ page.url|remove:'es/' |remove:'.html' }}">English</a>/<a class="lang_a nav-item {% if page.lang == "es" %}lang_selected{% else %}{% endif %}" href="{% if page.lang == "es" %}/{{ page.url|remove:'.html'  }}{% else %} /es{{ page.url|remove:'.html'  }}{% endif %}">Español</a></li>
+      <li class="lang_li mobile-lang-select"><a class="lang_a nav-item {% if page.lang == "es" %}{% else %}lang_selected{% endif %}" href="{{ page.url|remove_first:'es/' |remove:'.html' }}">English</a>/<a class="lang_a nav-item {% if page.lang == "es" %}lang_selected{% else %}{% endif %}" href="{% if page.lang == "es" %}/{{ page.url|remove:'.html'  }}{% else %} /es{{ page.url|remove:'.html'  }}{% endif %}">Español</a></li>
       
       <ul class="navbar-nav ml-auto">
         {% for item in site.data.menus.header  %}

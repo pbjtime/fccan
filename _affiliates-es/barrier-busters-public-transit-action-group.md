@@ -1,6 +1,7 @@
 ---
 title: Barrier Busters, Grupo de Acción para el Tránsito Público
 layout: affiliates
+lang: es
 en-affiliate: Barrier Busters, Public Transit Action Group
 ---
 Sobre el grupo
@@ -8,6 +9,21 @@ Sobre el grupo
 
 Barrier Busters, Public Transit Action Group (BB/PTAG) se fundó en 2001 cuando un grupo de miembros de la comunidad de discapacitados de bajos ingresos de Fort Collins se reunió para defender un mejor acceso al transporte público en Fort Collins y la justicia para los discapacitados. Desde entonces, BB/PTAG se ha dedicado a llevar un transporte público eficaz y sostenible a Fort Collins, al tiempo que lucha por la dignidad y los derechos de las personas discapacitadas.
               
+
+
+  ![ BB-PTAG outreach](/media/bb-ptag-photo.png " ")
+
+  BB-PTAG outreach
+
+  ![Nothing About us, without us@](/media/nothing-about-us-without-us.jpg " ")
+  
+  Nothing About us, without us@
+
+  ![](/media/disjus.png "Disability Justice")
+  
+  Disability Justice
+
+
 Construir una comunidad accesible
 
 
@@ -27,39 +43,39 @@ Trabajamos para ampliar nuestra comprensión de lo que significa el "acceso" y p
 
 La accesibilidad también puede incluir lo siguiente
 
-  Disponer de una escala de honorarios
+  * Disponer de una escala de honorarios
 
-  Opciones de participación en línea
+  * Opciones de participación en línea
 
-  Flexibilidad en el tiempo y el ritmo de las actividades
+  * Flexibilidad en el tiempo y el ritmo de las actividades
 
-  Lugares que estén cerca del transporte público
+  * Lugares que estén cerca del transporte público
 
-  Cuidado de los niños
+  * Cuidado de los niños
 
-  Sala de apoyo sensorial
+  * Sala de apoyo sensorial
 
-  Baños de género neutro
+  * Baños de género neutro
 
-  No hacer fotos con flash
+  * No hacer fotos con flash
 
-  Tener en cuenta la presencia de la policía y la seguridad
+  * Tener en cuenta la presencia de la policía y la seguridad
 
-  Comida
+  * Comida
 
-  Espacios multilingües
+  * Espacios multilingües
 
-  Asientos accesibles
+  * Asientos accesibles
 
-  Reconocer a las comunidades nativas y la tierra en la que nos encontramos
+  * Reconocer a las comunidades nativas y la tierra en la que nos encontramos
 
-  Respetar las diferentes prácticas espirituales y religiosas
+  * Respetar las diferentes prácticas espirituales y religiosas
 
 ¿Interesado en participar?
 
 Nos reunimos mensualmente en la Biblioteca de la Ciudad Vieja, para conocer la hora de la próxima reunión consulta nuestro calendario de eventos o envía un correo electrónico a info@fccan.org
 
-Consulta nuestro último blog, Stand up for Disability Justice
+Consulta nuestro último blog, [Stand up for Disability Justice](/blog/stand-up-for-public-transportation-in-fort-collins)
 
 Nos reunimos trimestralmente con el personal de Transfort
 

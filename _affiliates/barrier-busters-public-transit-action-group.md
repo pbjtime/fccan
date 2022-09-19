@@ -8,14 +8,17 @@ layout: affiliates
   Barrier Busters, Public Transit Action Group (BB/PTAG) was founded in 2001 when a group of low income, disabled community members in Fort Collins came together to advocate for better access to public transportation in Fort Collins and disability justice. Since then, BB/PTAG has been dedicated to bringing effective and sustainable public transit to Fort Collins while fighting for the dignity and rights of disabled people.
 
 
-  ![](/media/bb-ptag-photo.png "* BB-PTAG outreach")
+  ![ BB-PTAG outreach](/media/bb-ptag-photo.png " ")
 
+  BB-PTAG outreach
 
-  ![](/media/nothing-about-us-without-us.jpg "Nothing About us, without us@")
-
+  ![Nothing About us, without us@](/media/nothing-about-us-without-us.jpg " ")
+  
+  Nothing About us, without us@
 
   ![](/media/disjus.png "Disability Justice")
-
+  
+  Disability Justice
 
   ## Building an accessible community
 
@@ -70,9 +73,9 @@ layout: affiliates
   ## Interested in getting involved?
 
 
-  * We meet monthly at the Old Town Library, for the next meeting time check out our [calendar of events](http://fccan.org/calendar/) or email info@fccan.org
+  * We meet monthly at the Old Town Library, for the next meeting time email info@fccan.org
 
-  * Check out our latest blog post, [Stand up for Disability Justice](http://fccan.org/uncategorized/stand-up-for-public-transportation-in-fort-collins/)
+  * Check out our latest blog post, [Stand up for Disability Justice](/blog/stand-up-for-public-transportation-in-fort-collins)
 
   * We meet quarterly with Transfort staff
 
