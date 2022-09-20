@@ -9,6 +9,22 @@ media_folder: "media"
 public_folder: "/media"
 
 collections:
+  - label: "Homepage Sections"
+    name: "homepage-sections"
+    folder: "_homepage-sections"
+    slug: "{{name}}"
+    summary: "{{name}} -- {{id}} -- {{order}}"
+    create: true
+    editor:
+      preview: true
+    fields:
+      - { label: "Section ID", name: "id", widget: "string", default: "give-me-an-id-" }
+      - { label: "Section Name", name: "name", widget: "string" }
+      - { label: "Section order", name: "order", widget: "number",  default: 50, valueType: "int", min: 1, max: 101 }
+      - { label: "Section Title (English)", name: "title-en", widget: "string" }
+      - { label: "Section Body (English)", name: "body-en", widget: "markdown" }
+      - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Section Body (Spanish)", name: "body-es", widget: "markdown" }
   - label: "Programs English"
     name: "programs-en"
     folder: "_programs"

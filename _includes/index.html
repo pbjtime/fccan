@@ -1,55 +1,32 @@
-<section>
-<h1>We’re Working for Our Community!</h1>
-<p style="text-align: left;"><img loading="lazy" class="alignleft" src="/media/Checkmark-1.png" alt="" width="52" height="52"><strong>Fort Collins Community Action Network</strong> supports a diverse coalition of students of color and community groups together to push for No More SRO’s in the Poudre School District, as part of our <a href="/programs/school-justice-psd/">School Justice PSD campaign</a>.&nbsp;</p>
-<p style="text-align: left;"><strong><img loading="lazy" class="alignleft" src="/media/Checkmark-1.png" alt="" title="" style="" width="52" height="52"></a>Fort Collins Homeless Coalition (FCHC)</strong>&nbsp;is researching and pushing to get The City to open more bathrooms year-round and install year-round water fountains.<u></u></p>
-<p style="text-align: left;"><strong><img loading="lazy" class="alignleft" src="/media/Checkmark-1.png" alt="" title="" style="" width="52" height="52"></a>FCHC</strong> worked tirelessly to <strong>gut the proposed Sit-Lie ban ordinance</strong> in March 2017. They pressured the city to removing any of the references to sitting or lying on sidewalks or benches.</p>
-<p style="text-align: left;"><strong><img loading="lazy" class="alignleft " src="/media/Checkmark-1.png" title="" style="" width="52" height="52">FCHC is working extensively on the statewide Right to Rest Act</strong>, surveying people who are currently homeless to gather data, working on bill language, messaging, lobbying. Members of the&nbsp;<strong>Fort Collins Homeless Coalition </strong>travel to Denver to testify in favor of the bill.<u></u></p>
-<p style="text-align: left;"><img loading="lazy" class="wp-image-326 alignleft hoverZoomLink" src="/media/Checkmark-1.png" alt="" title="" style="" width="52" height="52"><strong>Fuerza Latina</strong>&nbsp;is <strong>educating immigrants and allies with&nbsp; know your rights trainings</strong>, legal clinics with free consultation, and emergency preparedness packets. These packets are used by families in the case that a member gets picked&nbsp;up by&nbsp;immigration.<u></u><u></u></p>
-<p style="text-align: left;"><img loading="lazy" class="alignleft " src="/media/Checkmark-1.png" alt="" width="53" height="53"><strong>Fuerza Latina</strong> is <strong>moving forward with the City to create more community trust in regards to to protecting immigrants</strong> from police harassment.</p>
-<p style="text-align: left;"><img loading="lazy" class="alignleft" src="/media/Checkmark-1.png" alt="" width="52" height="52"><strong>Sunday</strong><strong>&nbsp;bus service is now a reality</strong>&nbsp;because of the efforts of <strong>BB/PTAG</strong>, <strong>Fort Collins Sustainability Group</strong>, <strong>Fort Collins Homeless Coalition</strong>, <strong>FCCAN</strong>, and the broad coalition of groups that we brought together in the&nbsp;Sunday&nbsp; Service Now Coalition.</p>
-</section>
+{% for section in site.homepage-sections %}
+    <section>
+      <div class="container">
+      <br>
+      <h2 class="text-center mt-0">{% if page.lang == "es" %}{{ section.title-es | newline_to_br | markdownify }}{% else %}{{ section.title-en | newline_to_br | markdownify }}{% endif %}</h2>
+      <div class="row-fluid member-box">
+      	{% if section.picture %}
+        <div class="col-md-auto">
+          <img class="fa fa-3x" src="{{ member.picture }}">
+        </div>
+       	{% endif %}
+        <div class="col-md-auto">
+          <div class="card-body">
+            <p class="card-text"> {% if page.lang == "es" %}{{ section.body-es | newline_to_br | markdownify }}{% else %}{{ section.body-en | newline_to_br | markdownify }}{% endif %}</p>
+          </div>
+        </div>
+      </div>
+      <br>
+      </div>
+	</section>
+{% endfor %}
 <section>
   <div class="container">
-{% include resources.html %}
-    <h1 class="mt-0">Upcoming Events</h1>
-    {% assign future_events=0 %}
-    {% capture now %}{{'now' | date: '%s' | plus: 0 %}}{% endcapture %}
-     {% for event in site.events limit:2%}
-     {% capture date %}{{event.start | date: '%s' | plus: 0 %}}{% endcapture %}
-     {% if date > now %}
-     	{% capture future_events %}{% increment future_events %}{% endcapture %}
-	    <div class="row-fluid event-box">
+    <div class="row-fluid">
 	        <div class="col-md-auto">
 			<div class="card-body">
-	            <p class="card-text"> 
-	            <h4 class="text-center mt-2">{% if page.lang == "es" %}{{ event.title-es | newline_to_br }}{% else %}{{ event.title-en | newline_to_br }}{% endif %}</h4><br>
-	            <b>Location</b>: {{event.location}}<br>
-				<b>Start Time</b>: {{event.start}}<br>
-				<b>End Time</b>: {{event.end}}<br>
-	            {% if page.lang == "es" %}{{ event.body-es | newline_to_br | markdownify | truncatewords: 30 }}{% else %}{{ event.body-en | newline_to_br | markdownify | truncatewords: 30 }}{% endif %}<a href="{{ event.url }}">Read More</a> </p>
+	            <h3> {% if page.lang == "es" %}Latest Blog {% else %}Latest Blog{% endif %} </h3>
 	          </div>
 	      </div>
 	    </div>
-	    <br>
-    {% endif %}
-     {% endfor %}
-     {% if future_events == 0 %}
-    <div class="row-fluid event-box">
-	        <div class="col-md-auto">
-			<div class="card-body">
-	            <h3> No Upcoming Events </h3>
-	          </div>
-	      </div>
-	    </div>
-	    {% endif %}
     </div>
 </section>
-
-<section>
-    <div class="container">
-      <h2 class="text-center mt-0">{% if page.lang == "es" %}{{ section.title-es }}{% else %}{{ section.title-en| newline_to_br }}{% endif %}</h2>
-      <div class="row justify-content-center">
-        <div class="mb-4">
-          {% if page.lang == "es" %}{{ section.body-es | newline_to_br | markdownify }}{% else %}{{ section.body-en | markdownify }}{% endif %}
-        </div>
-  </section>

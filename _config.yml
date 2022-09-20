@@ -57,6 +57,9 @@ plugins:
 #   - vendor/ruby/
 
 collections:
+  homepage-sections:
+    output: false
+    sort_by: order
   staff:
     output: false
     permalink: /:collection
