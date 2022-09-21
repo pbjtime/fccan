@@ -6,4 +6,3 @@ ordering:
   - neutral
 en-program: Healing Justice
 ---
-Sanación Justicia`

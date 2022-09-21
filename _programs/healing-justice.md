@@ -5,4 +5,3 @@ lang: en
 ordering:
   - neutral
 ---
-Healing Justice

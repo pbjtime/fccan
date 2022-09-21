@@ -87,6 +87,7 @@ collections:
   blog:
     output: true
     permalink: /:collection/:title
+    sort_by: date
   blog-es:
     output: true
     permalink: /es/blog/:title

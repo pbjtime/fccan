@@ -18,6 +18,7 @@ layout: base
 {% assign content = content %}
 {% if content != "" %}
   <div class="container">
+    Published - {{page.date| date: "%-d %B %Y" }}
   	<br>
     {{ content }}
   </div>

@@ -1,6 +1,4 @@
 .member-box img {
-  width: 30%;
-  height: 30%;
   object-fit: cover;
   float: left; }
 
@@ -198,6 +196,10 @@ ul.icons {
       top: 0; }
     ul.icons.bulleted li > :last-child {
       margin-bottom: 1em; }
+
+.p img {
+  object-fit: cover;
+  float: left; }
 
 .center-me {
   text-align: center;

@@ -6,7 +6,7 @@
       <div class="row-fluid member-box">
       	{% if section.picture %}
         <div class="col-md-auto">
-          <img class="fa fa-3x" src="{{ member.picture }}">
+          <img class="fa fa-3x" src="{{ section.picture }}">
         </div>
        	{% endif %}
         <div class="col-md-auto">
@@ -22,9 +22,16 @@
 <section>
   <div class="container">
     <div class="row-fluid">
-	        <div class="col-md-auto">
 			<div class="card-body">
-	            <h3> {% if page.lang == "es" %}Latest Blog {% else %}Latest Blog{% endif %} </h3>
+	            <h3> {% if page.lang == "es" %}Último blog {% else %}Latest Blog{% endif %} </h3>
+	            {% assign blog = site.blog | where:"associated-group","blog" | sort: 'date' | reverse %}
+	            {% for post in blog  limit:3 %}
+				<a href="{{ post.url }}">
+				   <li class="nav-link"><h5>{{ post.title }} - {{post.date| date: "%-d %B %Y" }}</h5> 
+				   	<p>{{ post.content |strip_html |truncatewords:20}}</p>Read more...
+				   </li> 
+				</a>
+				{% endfor %}
 	          </div>
 	      </div>
 	    </div>
