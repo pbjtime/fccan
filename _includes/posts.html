@@ -1,11 +1,37 @@
-{% for post in site.blog  reversed %}
-	{% if page.url contains "blog" %}
-		{% if post.associated-group contains "blog" %}
-		<a href="{{ post.url }}" class="nav-link js-scroll-trigger"><li class="dropdown-item nav-link">{{ post.title }}</li></a>
-		{% endif %}
-	{% elsif page.url contains "affiliate" %}
-		{{page.url}}
-	{% elsif page.url contains "programs" %}
-		{{page.url}}
-	{% endif %}
-{% endfor %}
+<section>
+  <div class="container">
+    <div class="row-fluid">
+			<div class="card-body">
+	            <h3> {% if page.lang == "es" %}Último Blog {% else %}Latest Blog{% endif %} </h3>
+	            {% assign blog = site.blog | where:"associated-group","blog" | sort: 'date' | reverse %}
+	            {% for post in blog  limit:3 %}
+				<a href="{{ post.url }}">
+				   <li class="nav-link"><h5>{{ post.title }} - {{post.date| date: "%-d %B %Y" }}</h5> 
+				   	<p>{{ post.content |strip_html |truncatewords:20}}</p>Read more...
+				   </li> 
+				</a>
+				{% endfor %}
+	          </div>
+	      </div>
+	    </div>
+    </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="row-fluid">
+			<div class="card-body">
+	            <h3> {% if page.lang == "es" %}Blogs Archivados {% else %}Archived Blogs{% endif %} </h3>
+	            {% assign blog = site.blog | where:"associated-group","blog" | sort: 'date' | reverse %}
+	            {% for post in blog  offset:4 %}
+
+				<a href="{{ post.url }}">
+				   <li class="nav-link"><h5>{{ post.title }} - {{post.date| date: "%-d %B %Y" }}</h5> 
+				   </li> 
+				</a>
+				{% endfor %}
+	          </div>
+	      </div>
+	    </div>
+    </div>
+</section>

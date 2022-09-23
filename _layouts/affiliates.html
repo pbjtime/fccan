@@ -21,3 +21,22 @@ layout: base
     {{ content }}
   </div>
 {% endif %}
+<section>
+  <div class="container">
+    <div class="row-fluid">
+      <div class="card-body">
+{% assign blog = site.blog | sort: 'date' | reverse %}
+ {% for post in blog  %}
+ {% if post.associated-group == page.associated-group %}
+        <a href="{{ post.url }}">
+           <li class="nav-link"><h5>{{ post.title }} </h5> 
+            <p>{{ post.content |strip_html |truncatewords:100}}</p>Read more...
+           </li> 
+        </a>
+  {%endif%}
+{% endfor %}
+            </div>
+        </div>
+      </div>
+    </div>
+</section>

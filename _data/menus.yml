@@ -7,16 +7,16 @@ header:
   title-es: Sobre Nosotros
   sub-menu:
     - title: Our Story
-      title-es: Our Story
+      title-es: Nuestra Historia
       url: about
     - title: Guilding Values
-      title-es: Guilding Values
+      title-es: Valores Que Nos Guían
       url: guiding-values
     - title: Our Staff
       title-es: Nuestro Personal
       url: our-staff
 - title: Affiliates
-  title-es: Affiliates
+  title-es: Nuestros Afiliados
   url: affiliates
 - title: Programs
   title-es: Programas

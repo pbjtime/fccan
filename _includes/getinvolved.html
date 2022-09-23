@@ -19,7 +19,9 @@
           O envíanos un correo electrónico:<br>
           <b class="text-black">Fccan Correo Electrónico: </b> <a href = "mailto: info@fccan.com">info@fccan.com</a> <br>
           {% for member in site.staff %}
-          <b class="text-black">{{member.title}} - {{member.name}}</b> <a href = "mailto: {{member.email}}">{{member.email}}</a>  <br>
+          {% if member.email %}
+          <b class="text-black">{{member.title-es}} - {{member.name}}</b> <a href = "mailto: {{member.email}}">{{member.email}}</a>  <br>
+          {% endif %}
           {% endfor %}
 
         </div>
@@ -31,7 +33,9 @@
           Or Email Us:<br>
           <b class="text-black">Fccan Community Contact: </b> <a href = "mailto: info@fccan.com">info@fccan.com</a> <br>
           {% for member in site.staff %}
-          <b class="text-black">{{member.title}} - {{member.name}}</b> <a href = "mailto: {{member.email}}">{{member.email}}</a>  <br>
+          {% if member.email != '' %}
+          <b class="text-black">{{member.title-en}} - {{member.name}}</b> <a href = "mailto: {{member.email}}">{{member.email}}</a>  <br>
+          {% endif %}
           {% endfor %}
 
         </div>
