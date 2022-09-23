@@ -2,6 +2,12 @@
   object-fit: cover;
   float: left; }
 
+.box-img img {
+  object-fit: cover;
+  float: left;
+  max-width: 100%;
+  max-height: 100%; }
+
 .timeline {
   position: relative;
   padding: 0;

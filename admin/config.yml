@@ -53,6 +53,7 @@ collections:
       - { label: "Layout", name: "layout", widget: "hidden", default: "programs"}
       - { label: "Lang", name: "lang", widget: "hidden", default: "en"}
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
+      - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
   - label: "Programs Spanish"
     name: "programs-es"
     folder: "_programs-es"
@@ -82,6 +83,7 @@ collections:
       - { label: "Lang", name: "lang", widget: "hidden", default: "es"}
       - { label: "Ordering", name: "ordering", widget: "select", options: ["important", "first", "neutral", "last"],default: ["neutral"] }
       - { label: "Program in English", name: "en-program", widget: "relation", collection: "programs-en", search_fields: ["title"], value_field: "title"}
+      - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
   - label: "Values"
     name: "values"
     folder: "_values"
@@ -114,6 +116,7 @@ collections:
             multiple: false
       - { label: "Org Name (English)", name: "title", widget: "string" }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'affiliates' }
+      - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
       - { label: "About (English)", name: "body", widget: "markdown" }
   - label: "Affiliates Spanish"
     name: "affiliates-es"
@@ -134,6 +137,7 @@ collections:
       - { label: "Org Name (Spanish)", name: "title", widget: "string" }
       - { label: 'Layout', name: 'layout', widget: 'hidden', default: 'affiliates' }
       - { label: "About (Spanish)", name: "body", widget: "markdown" }
+      - { label: "Associated Group", name: "associated-group", widget: "relation", collection: "groupings", search_fields: ["group"], value_field: "group", multiple: true }
       - { label: "Affiliate in English", name: "en-affiliate", widget: "relation", collection: "affiliates-en", search_fields: ["title"], value_field: "title"}
   - label: "Resources"
     name: "resources"

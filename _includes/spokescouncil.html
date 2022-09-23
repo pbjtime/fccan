@@ -1,8 +1,7 @@
-
-      {% for member in site.steering-committee %}
-      <section>
+<section>
   <div class="container">
-      <br>
+    <h1 class="text-center mt-0">{% if page.lang == "es" %}Nuestro Junta Directiva{% else %}Our Spokescouncil{% endif %}</h1>
+    {% for member in site.spokescouncil %}
       <h2 class="text-center mt-0">{{ member.name }}</h2>
       <div class="row-fluid member-box">
       	{% if member.picture %}
@@ -17,8 +16,7 @@
         </div>
       </div>
       <br><br>
-
+    {% endfor %}
     </div>
   </div>
 </section>
-      {% endfor %}
