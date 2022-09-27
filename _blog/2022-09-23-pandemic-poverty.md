@@ -18,7 +18,7 @@ We, the Fort Collins Homeless Coalition (FCHC), believe:
 
 **Winter is coming, and Fort Collins is failing its most vulnerable community members.** Closing the Aztlan shelter knowing that hundreds of people would no longer have any option to spend days or nights indoors was unconscionable, as was shutting down the encampment in Heritage Park in defiance of CDC guidelines for public health.
 
-![](http://fccan.org/wp-content/uploads/2020/09/and-go-where-768x1024.jpg)
+![](/media/and-go-where.jpg)
 
 ### Press releases and materials
 
