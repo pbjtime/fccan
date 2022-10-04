@@ -36,13 +36,11 @@ Thanks to FCHC organizing and community support, things have improved in the las
 
 ### We celebrate these achievements, while continuing to work for adequate bathrooms, drinking water, and sanitation throughout our entire community.
 
-[![](http://fccan.org/wp-content/uploads/2018/05/IMG_20180507_152135-300x225.jpg)](http://fccan.org/wp-content/uploads/2018/05/IMG_20180507_152135.jpg)
+![](/media/IMG_20180507_152135.jpg)
 
 Thanks to the work of FCHC members, and to FoCo Cafe for leading the way, the Parks Department installed the first publicly-installed hydration station in Fort Collins! It’s in Oak St. Plaza, between the art museum and the bank. We had such a great time at our ribbon cutting ceremony in May.
 
- 
-
-[![](http://fccan.org/wp-content/uploads/2018/04/22550202_1820910474867170_2721850923198201841_o-300x169.jpg)](http://fccan.org/wp-content/uploads/2018/04/22550202_1820910474867170_2721850923198201841_o.jpg)
+![](/media/22550202_1820910474867170_2721850923198201841_o.jpg)
 
 While the Oak St. bathrooms were under construction, FCHC had to “remind” the City to put up a accessible porta-potty while the bathrooms were closed.
 
@@ -71,5 +69,3 @@ Please note: ticketing data does not tell us how often people are contacted by p
 [No Toilets for the Homeless](https://brightthemag.com/no-toilets-for-the-homeless-55b3b073e919) (McKenna, Stacey. *Bright Magazine*, January 20, 2016).
 
 [California city confiscates toilets from homeless residents](https://www.theguardian.com/us-news/2017/sep/08/anaheim-homeless-toilets-confiscated-public-health-crisis) (*The Guardian*, September 8, 2016)
-
-<!--EndFragment-->
