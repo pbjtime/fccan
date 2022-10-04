@@ -12,13 +12,17 @@ Since 2014, the Fort Collins Homeless Coalition (FCHC) has been standing up for 
 
 # About FCHC
 
-[![](http://fccan.org/wp-content/uploads/2019/07/FCCAN-artwork-purple-222x300.png)](http://fccan.org/wp-content/uploads/2019/07/FCCAN-artwork-purple.png)The Fort Collins Homeless Coalition (FCHC) works with and for people who experience homelessness, to address the issues that arise from the experience of homelessness. We work to protect and advocate for dignity, rights, and choices for people experiencing homelessness. We create space for solutions and we effect change in our community. We fight the criminalization of poverty and homelessness. We commit our efforts toward goals affirmed and raised by people who are homeless. We strive to add our strengths together to create ways of living in which everyone has a place they can call home.
+[](http://fccan.org/wp-content/uploads/2019/07/FCCAN-artwork-purple.png)
+
+![](/media/FCCAN-artwork-purple-222x300.png)
+
+[](http://fccan.org/wp-content/uploads/2019/07/FCCAN-artwork-purple.png)The Fort Collins Homeless Coalition (FCHC) works with and for people who experience homelessness, to address the issues that arise from the experience of homelessness. We work to protect and advocate for dignity, rights, and choices for people experiencing homelessness. We create space for solutions and we effect change in our community. We fight the criminalization of poverty and homelessness. We commit our efforts toward goals affirmed and raised by people who are homeless. We strive to add our strengths together to create ways of living in which everyone has a place they can call home.
 
 Over the years, our group has sometimes been very large and sometimes very small. Because our members are diverse and ever- changing, FCHC has focused on many projects over time, including fighting for housing, 24/7 bathroom access, storage lockers, warming centers, winter emergency shelters, better treatment in shelters, year- round public drinking water, Sunday bus service, and dignity throughout our community. We have worked on state-wide Right to Rest legislation, have helped kill several different sit/lie bans, and continue to oppose the criminalization of homelessness at every turn.
 
 Contact Us: 970.419.8944, info@fccan.org
 
-![](http://fccan.org/wp-content/uploads/2018/04/sit-lie-ban-protest-1024x576.jpeg)
+![](/media/sit-lie-ban-protest-1024x576.jpeg)
 
 FCHC and community at a 2017 Sit-Lie Ban Protest
 
@@ -95,4 +99,4 @@ In 2020, FCHC:
 * …is working on a fall gear drive
 * …is continuing to insist that our community implement an emergency preparedness plan that includes homeless, marginalized, and incarcerated people, and we need **universal housing for all**.
 
-![](http://fccan.org/wp-content/uploads/2020/09/anne-braden-quote.jpg)
+![](/media/anne-braden-quote.jpg)
