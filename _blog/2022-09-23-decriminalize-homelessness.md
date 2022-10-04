@@ -21,10 +21,16 @@ There are several other local laws that regulate sleeping (among other things), 
 
 ## Downtown is for Everyone
 
-[![](http://fccan.org/wp-content/uploads/2018/04/sit-lie-ban-protest-300x169.jpeg)](http://fccan.org/wp-content/uploads/2018/04/sit-lie-ban-protest.jpeg)FCHC led community-wide efforts to defeat several proposed sit-lie bans ([read more about our fight here](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/no-sit-lie-ban-in-fort-collins/)). We also helped the ACLU of Colorado overturn Fort Collins’ unconstitutional panhandling ordinance ([read more about that here](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/panhandling/)). These remain significant victories for our community.
+![](/media/sit-lie-ban-protest-1024x576.jpeg)
+
+FCHC led community-wide efforts to defeat several proposed sit-lie bans ([read more about our fight here](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/no-sit-lie-ban-in-fort-collins/)). We also helped the ACLU of Colorado overturn Fort Collins’ unconstitutional panhandling ordinance ([read more about that here](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/panhandling/)). These remain significant victories for our community.
 
 - - -
 
 ## Colorado needs a Right to Rest Act
 
-[![](http://fccan.org/wp-content/uploads/2018/04/27164727_10155582993484022_5788136468152008698_o-169x300.jpg)](http://fccan.org/wp-content/uploads/2018/04/27164727_10155582993484022_5788136468152008698_o.jpg)The criminalization of homelessness is widespread throughout Colorado and beyond. FCHC has been involved in efforts to introduce a state-wide Homeless Bill of Rights, or Right to Rest Act, in 2015, 2016, 2017, and 2018. We will keep fighting for our right to survive. [Read more about the Right to Rest campaign here.](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/colorado-right-to-rest-act/)
+[](http://fccan.org/wp-content/uploads/2018/04/27164727_10155582993484022_5788136468152008698_o.jpg)
+
+![](/media/27164727_10155582993484022_5788136468152008698_o-169x300.jpg)
+
+The criminalization of homelessness is widespread throughout Colorado and beyond. FCHC has been involved in efforts to introduce a state-wide Homeless Bill of Rights, or Right to Rest Act, in 2015, 2016, 2017, and 2018. We will keep fighting for our right to survive. [Read more about the Right to Rest campaign here.](http://fccan.org/fchc/decriminalize-homelessness-and-poverty/colorado-right-to-rest-act/)
