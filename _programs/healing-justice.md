@@ -7,7 +7,7 @@ ordering:
 associated-group:
   - healing justice
 ---
-![](/media/Healing-Justice.png)
+![](/media/healing-justice-banner.png)
 
 > “Our movements themselves have to be healing, or there’s no point to them”\
 > —Cara Page, Kindred: Southern Healing Justice Collective
@@ -29,8 +29,6 @@ Because the “sanctuary” experience in white-dominated wellness spaces loo
 And here’s the thing, there is no transformational pathway that excludes and denies the experience of so many. White silence is violence. Inaction is oppression. And complicity is harm.
 
 If we are serious about our spirituality and wellbeing, we need to practice sanctuary. Practicing sanctuary calls on our best selves to show up for one another. ​We call it practice, because this is not about being perfect or getting it exactly right, but about being rigorous in our commitment and courageous in our actions. As we resist, we will confront conflict and face fear. Our resilience comes in remembering who we are and who we are to one another.
-
-
 
 # Our Partners
 
