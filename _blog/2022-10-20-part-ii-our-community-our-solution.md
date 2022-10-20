@@ -1,0 +1,26 @@
+---
+layout: post
+title: "Part II: Our Community, Our Solution"
+date: 2022-10-20T19:53:43.066Z
+associated-group:
+  - blog
+---
+By: FCCAN Staff
+
+I have experienced and witnessed countless forms of police violence from my childhood, where it was a normalized daily occurrence to see people living on the streets being forcefully and violently moved, their makeshift homes in the park and under bridges being destroyed and their belongings being confiscated by the police. The instances in my life where I was harmed by police violence personally, always intersected with my own gender identity, and being in a body that is feminized and disrespected by the police and society at large. 
+
+From when I was a young teenager, driving across the midwest on a family road trip with my family, it was my turn to drive and I got pulled over for going over the speed limit. I’ll never forget how the officer, did not greet me but began the conversation by yelling at me and telling me I deserved to get multiple offenses for my actions and asked me to get out of the car and without warning touched me, putting his hands all over my body (I was going 60 in a 40 mph zone through the middle of Kansas). It was a very triggering and life altering experience for myself as a 16 year old survivor of sexual assault and rape, that has been a reoccuring theme of having men, especially men dressed in a uniform with the power of the state to back them, disrespect my own bodily autonomy and sovereignty, without any consequences. 
+
+When I was an undergraduate student, I went on a hike with my partner at the time. Afterwards we had pulled over onto a dirt road, off on the side close to some trees to enjoy the view and hang out. We were in the backseat of the car together, eating snacks and I was laying down on his lap while he was sitting up, I recall a lot of giggling and laughter happening between us when a cop unexpectedly pulled up behind us, and walked over to the back window and tapped on it with his baton. I quickly sat up, startled and the officer again, did not greet me but instead acknowledged my partner (a white, cis male) and then gave me a disgusted look and asked if I was being inappropriate. I froze, unable to respond and he sneered and called me a slut and demanded to see my ID. I did not have a driver's license at the time, so I gave him my student ID which he didn’t accept. He then spent an hour looking for to prove my existence according to his records in his car, and came back saying he was going to need me to step out of the car because he couldn’t find me in his records, when my partner suggested he look in a different state database because we were across state lines and maybe that was why he was having difficulty. He listened and then looked for me in the other state database, found me and then told us we both needed to leave immediately and not return. This experience left me feeling disregarded and full of shame.
+
+As we discussed in Part 1 of our blog post, the feelings of being violated and the ripple effects it has on us, as women of color and young adults in our community are not exceptions to the norm. And our language of police violence, is intentional. While policing often has brutalizing impacts on our communities, we do not use the term police brutality because any and every act of policing is violent, from stops and interrogations to patrols, arrests, surveillance and searches. Even acts of playing nice as “good cop” or cops playing with children and attending community events are strategies to overlook and legitimize the brutal harm policing causes.     
+
+The title of this series of blog posts is also intentional, Our community, Our solution, as a way to highlight the importance of collective self determination.                
+
+Self-determination is the idea that communities should be able to determine their own dealings without being controlled or restrained by outside or government forces. 
+
+
+
+In capitalism, we have choices, but we do not get to select or determine the conditions of our choosing. Collective self- determination is about radically transforming the conditions of power and in which we live so that our communities can collectively make decisions fully on our own terms. Collective self-determination is about building the conditions for our choices to be liberated and not controlled by capitalism. While FCCAN strives to tear apart the cogs of the Prison Industrial Complex (PIC), we simultaneously seek to build the community we want to inhabit.                
+
+We know our community needs affordable housing, nourishing food, quality education, jobs and programs for youth. These are the things that make us truly safe, and these are the conditions our families need in order to make fully collective, accountable and sustainable decisions. Being able to define what those things look like and to implement them on our terms builds community power towards full self-determination. Collective self-determination, that encompasses our own bodily autonomy and self determination as women and non-binary folks, is our ultimate goal.
