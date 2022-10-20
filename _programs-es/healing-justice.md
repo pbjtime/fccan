@@ -8,9 +8,7 @@ en-program: Healing Justice
 associated-group:
   - healing justice
 ---
-![](/media/Healing-Justice.png)
-
-
+![](/media/healing-justice-banner.png)
 
 > “Nuestros movimientos en sí mismos tienen que ser curativos, o no tienen sentido para ellos”
 >
