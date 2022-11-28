@@ -1,5 +1,5 @@
 ---
-name: Yurixhi Toro River
+name: Yurixhi Toro Rivera
 email: yurixhi@fuerzalatinafoco.org
 title-en: Fuerza Latina Community Organizer
 title-es: Fuerza Latina Community Organizer
