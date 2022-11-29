@@ -1,0 +1,42 @@
+---
+picture: /media/blog-1.png
+layout: post
+title: "Los mitos del conducto de la escuela a la prisión: ¿Es la policía lo que
+  necesitan los estudiantes?"
+date: 2022-11-29T17:45:36.280Z
+associated-group:
+  - school justice psd
+  - blog
+blog-en: "The School-to-Prison Pipeline Myths: Is police what students need?"
+---
+#### By Anahi Quezada-Villa
+
+Se supone que los oficiales de recursos escolares (SRO, por sus siglas en inglés) deben mantener seguros a los estudiantes. Sin embargo, el aumento de SRO en las escuelas no ha hecho que las escuelas sean más seguras. No es una sorpresa: la investigación ha demostrado continuamente que los SRO no tienen un impacto positivo en la seguridad de los estudiantes y crean entornos escolares que no son seguros, enriquecedores o equitativos. Para empeorar las cosas, los SRO tienen un gran costo invisible para los estudiantes. Al continuar criminalizando a los estudiantes, las Escuelas Públicas de Denver están invirtiendo lo suficiente en lo que los estudiantes realmente necesitan para prosperar y perjudicando de manera desproporcionada a los estudiantes de color.
+
+![](https://movimientopoder.org/wp-content/uploads/2022/04/blog-2.png "blog 2")
+
+La policía en las escuelas ha aumentado las tasas de suspensiones y arrestos entre los estudiantes. Las disparidades raciales en estas tendencias son evidentes: los estudiantes BIPOC (negros, indígenas y personas de color) tienen más probabilidades de ser suspendidos, expulsados y arrestados en la escuela que sus contrapartes blancos. En consecuencia, los estudiantes de BIPOC son criminalizados por un comportamiento normal y apropiado para su edad, como faltar a clase, usar su teléfono celular o infringir el código de vestimenta. A raíz de las protestas de George Floyd de 2020, las Escuelas Públicas de Denver aprobaron una resolución histórica para sacar a la policía de las escuelas. El distrito reconoció el daño que enfrentaban los estudiantes de BIPOC al tener policías en las escuelas; sin embargo, el distrito nunca implementó la resolución de 2020 y, en cambio, optó por continuar financiando la criminalización y la vigilancia de los estudiantes de Denver.
+
+Si bien la creencia popular es que los SRO están destinados a mantener el orden y la seguridad en las escuelas, las experiencias de los estudiantes muestran lo contrario. Los SRO tienden a involucrarse cada vez más en asuntos rutinarios de disciplina escolar que, de otro modo, podrían manejarse con una visita a la oficina del consejero o ser reducidos por un profesional capacitado en justicia restaurativa. Es evidente que la presencia policial en las escuelas no garantiza la seguridad escolar sino que crea entornos escolares insalubres e inequitativos con consecuencias a largo plazo para los estudiantes.
+
+Según los datos del año escolar 2018-2019, las Escuelas Públicas de Denver informaron 657 remisiones a las fuerzas del orden público, el 25 % de las cuales involucraron a estudiantes negros, mientras que solo el 13 % de los estudiantes en Denver se identifican como negros. Las disparidades también son evidentes en los arrestos: los estudiantes negros y latinos tenían más probabilidades de ser arrestados que los estudiantes blancos. Esto habla del problema sistémico más importante en juego: los jóvenes BIPOC son objeto de prácticas disciplinarias de manera desproporcionada en sus escuelas. Al mismo tiempo, sus homólogos blancos reciben un trato mucho menos severo.
+
+La presencia policial y las políticas de tolerancia cero han creado inequidades estructurales que, a su vez, han llevado a un aumento en los arrestos de jóvenes y han alimentado el conducto de la escuela a la prisión (un término que se refiere a las políticas y sistemas que empujan a los jóvenes de color a la cárcel juvenil). sistema de justicia y les impide tener oportunidades de triunfar y prosperar). Un estudio de las escuelas de Washington, D.C. encontró que, a pesar de que representan solo el 15 % del cuerpo estudiantil en las escuelas, los estudiantes afroamericanos representaron el 36 % de los arrestos en el año escolar 2015-2016, de acuerdo con el patrón del DPS de criminalizar a los jóvenes de color por edad. -Comportamiento apropiado. La criminalización lleva a que los estudiantes sean expulsados ​​de sus escuelas e ingresados ​​al sistema de justicia penal, dejándolos con oportunidades limitadas para tener éxito educativo y profesional después de que sus registros hayan sido empañados. Los jóvenes indocumentados también enfrentan consecuencias perjudiciales, ya que la vigilancia policial en sus escuelas aumenta el riesgo de ser detenidos o deportados y de que uno de sus familiares sea deportado debido a las interacciones con la policía. Para los jóvenes indocumentados, el mantenimiento del orden y la vigilancia en sus escuelas y comunidades significa separación familiar, trauma, impactos en la salud mental y pérdidas económicas o educativas.
+
+![](https://movimientopoder.org/wp-content/uploads/2022/04/blog-3.png "blog 3")
+
+¿Qué significa la presencia policial en las escuelas para los estudiantes más allá del conducto de la escuela a la prisión? Dar prioridad a la policía en las escuelas a menudo significa que los fondos para actividades extracurriculares, deportes, arte, recursos de salud mental, etc., que son necesarios para el éxito de los estudiantes, quedan fuera de escena, dejando a nuestros estudiantes sin recursos ni apoyo. Las investigaciones muestran que uno de cada cuatro estudiantes asiste a escuelas con un SRO pero sin consejero, enfermera, psicólogo escolar o trabajador social. Un solo arresto puede afectar la vida entera de un estudiante, bloqueando las oportunidades educativas y obstaculizando su capacidad para encontrar empleo.
+
+La criminalización de los jóvenes en la escuela se ha relacionado cada vez más con los riesgos en los logros educativos, la participación del sistema de justicia penal de adultos y la reincidencia. Los estudios han demostrado que arrestar a un estudiante reduce significativamente la probabilidad de que se gradúe de la escuela secundaria. Además, la criminalización también reduce las oportunidades de los jóvenes para mejorar sus logros académicos y desarrollar un empleo estable. Peor aún, la criminalización en la adolescencia puede conducir a una futura participación en el sistema de justicia penal y la reincidencia en la edad adulta. Los entornos educativos están destinados a fomentar y nutrir el éxito de los jóvenes; sin embargo, la policía y la vigilancia están poniendo en riesgo el futuro y el sustento de los estudiantes.
+
+![](https://movimientopoder.org/wp-content/uploads/2022/04/1.png "1")
+
+**¿La policía crea ambientes escolares seguros?**
+
+Los datos son claros que la policía en las escuelas crea entornos inseguros y la criminalización de los jóvenes BIPOC. Además, los policías en las escuelas no reciben capacitación sobre equidad racial, justicia restaurativa ni tienen la capacitación necesaria para tratar con jóvenes. Lo que hace tener policías en las escuelas es hacer que los entornos escolares sean menos seguros, y los estudiantes de color se sienten incómodos, ansiosos y desconfiados de los adultos en sus escuelas. Además, la policía en las escuelas crea un trauma innecesario para los estudiantes de color que tienen que lidiar con interacciones negativas con las fuerzas del orden tanto en la escuela como en sus comunidades. Varios videos virales de policías que cometen violencia y agreden a estudiantes de color en las redes sociales han mostrado la realidad de la presencia policial en las escuelas.
+
+Los datos y las experiencias de los estudiantes pintan una imagen clara: la policía no hace que las escuelas sean más seguras. Crean entornos escolares inseguros e inequitativos para todos los estudiantes, especialmente los estudiantes de color, los estudiantes LGBTQ+ y los estudiantes con discapacidades. El trabajo ahora es implementar alternativas a la policía y el sistema de justicia penal para que los estudiantes puedan mantener sus oportunidades educativas, los lazos con amigos y familiares y tener una vida adulta saludable.
+
+Esté atento a nuestro próximo blog, donde discutiremos las alternativas a la vigilancia escolar y cómo las mejores y más exitosas escuelas ni siquiera tienen policía, sino los recursos adecuados que sus estudiantes necesitan para tener éxito.
+
+![](https://movimientopoder.org/wp-content/uploads/2022/04/blog-5.png "blog 5")
