@@ -30,7 +30,7 @@ body-es: >-
   en comunidad y sanamos para avanzar con el cambio*?
 
 
-  Nuestra campaña Fall Sustaining Member, que se llevará a cabo del **1 de noviembre al 10 de diciembre**, es una invitación para responder colectivamente a esta pregunta y financiar nuestro trabajo de manera sostenible a través de las conexiones que mantenemos. ¡Este año, **lo invitamos a unirse a nosotros como miembro de apoyo mensual **para ayudarnos a comenzar 2023 con fuerza con el lanzamiento de nuestro programa de sanación y justicia reproductiva e incluso más espacios comunitarios de sanación sin costo en Fort Collins! Además de convertirse en donante mensual, lo invitamos a compartir su abundancia a través de oportunidades de voluntariado.
+  Nuestra campaña Fall Sustaining Member, que se llevará a cabo del **1 de noviembre al 10 de diciembre**, es una invitación para responder colectivamente a esta pregunta y financiar nuestro trabajo de manera sostenible a través de las conexiones que mantenemos. ¡Este año, **lo invitamos a unirse a nosotros como miembro de apoyo mensual** para ayudarnos a comenzar 2023 con fuerza con el lanzamiento de nuestro programa de sanación y justicia reproductiva e incluso más espacios comunitarios de sanación sin costo en Fort Collins! Además de convertirse en donante mensual, lo invitamos a compartir su abundancia a través de oportunidades de voluntariado.
 
 
   ¡Cuando se convierta en uno de nuestros donantes, se beneficiará al recibir hermosas obras de arte, hechas por artistas locales en nuestra comunidad!
