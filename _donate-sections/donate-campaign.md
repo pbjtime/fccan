@@ -5,10 +5,7 @@ order: 1
 type: text-only
 title-en: Join our Annual Sustaining Membership Campaign!
 body-en: >-
-  <!--StartFragment-->
-
-
-  hroughout this year, we have sat with the question of *how do we rest in community and healing to move with change*?
+  Throughout this year, we have sat with the question of *how do we rest in community and healing to move with change*?
 
 
   Our Fall Sustaining Member Campaign, running from **November 1 - December 10th**, is an invitation to collectively answer this question and sustainably resource our work through the connections we hold. This year, **we invite you to join us as a monthly sustaining member** to help us in starting off 2023 strong with the launch of our reproductive justice and healing programming and even more no-cost community healing spaces in Fort Collins! In addition to becoming a monthly donor, we invite you to share your abundance through volunteer opportunities.
@@ -21,8 +18,7 @@ body-en: >-
 
 
   Ready to donate now? Click below to get started!
-
-
+  
   ### We thank you for your continued support!
 title-es: ¡Únase a nuestra Campaña Anual de Sostenimiento de Membresía!
 body-es: >-

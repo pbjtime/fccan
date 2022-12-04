@@ -1,1 +1,43 @@
-donate.html
+{% for section in site.donate-sections %}
+	{% if page.lang == "es" %}
+		<section>
+		  <div class="container">
+		    <div class="row-fluid">
+					<div class="card-body">
+			            <h3>{{section.title-es | markdownify }}</h3>
+						   	<p>{{ section.body-es | markdownify  }}</p>
+			          </div>
+			      </div>
+			    </div>
+		</section>
+	{% else %}
+		<section>
+		  <div class="container">
+		    <div class="row-fluid">
+					<div class="card-body">
+			            <h3>{{section.title-en| markdownify }}</h3>
+						   	<p>{{ section.body-en | markdownify }}</p>
+			          </div>
+			      </div>
+			    </div>
+		</section>
+	{% endif %}
+{% endfor %}
+<section>
+	<div class="container">
+		<div class="row-fluid">
+			<div class="card-body">
+          		<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_blank">
+                <input type="hidden" name="cmd" value="_donations">
+                <input type="hidden" name="bn" value="TipsandTricks_SP">
+                <input type="hidden" name="business" value="info@fccan.org">
+                <input type="hidden" name="return" value="http://fccan.org">
+                <input type="hidden" name="item_name" value="Fccan is Community Funded Please Donate Now!">
+                <input type="hidden" name="rm" value="0">
+                <input type="hidden" name="currency_code" value="USD">
+                <input type="submit" style="font-size: 1.75rem;font-weight: 500;line-height: 1.2;background:transparent; border:none;width:100%;height: 100%;" class="nav-link  donate" value="{% if page.lang == "es" %}Clic aquí para donar con PayPal ahora!{% else %}Click Here to donate with PayPal now!{% endif %}">
+        		</form>
+        	</div>
+        </div>
+	</div>
+</section>

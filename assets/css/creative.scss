@@ -203,7 +203,6 @@ figure {
 img {
   vertical-align: middle;
   border-style: none;
-  max-width: 100%;
 }
 
 svg {
@@ -383,6 +382,8 @@ h2, .h2 {
 
 h3, .h3 {
   font-size: 1.75rem;
+  display: grid;
+  text-align: center;
 }
 
 h4, .h4 {
@@ -10129,5 +10130,7 @@ header.masthead h1 {
 }
 
 .text-white-75 {
+  -webkit-text-stroke-width: .3px;
+  -webkit-text-stroke-color: black;
   color: rgba(255, 255, 255, 0.75);
 }

@@ -28,7 +28,7 @@
 	            {% for post in blog  limit:3 %}
 				<a href="{{ post.url }}">
 				   <li class="nav-link"><h5>{{ post.title }} - {{post.date| date: "%-d %B %Y" }}</h5> 
-				   	<p>{{ post.content |strip_html |truncatewords:20}}</p>Read more...
+				   	<p>{{ post.content |strip_html |truncatewords:20}} Read more...</p>
 				   </li> 
 				</a>
 				{% endfor %}
