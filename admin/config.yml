@@ -25,6 +25,25 @@ collections:
       - { label: "Section Body (English)", name: "body-en", widget: "markdown" }
       - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
       - { label: "Section Body (Spanish)", name: "body-es", widget: "markdown" }
+  - label: "Donate Sections"
+    name: "donate-sections"
+    folder: "_donate-sections"
+    slug: "{{name}}"
+    summary: "{{name}} -- {{id}} -- {{order}}"
+    create: true
+    editor:
+      preview: true
+    fields:      
+      - { label: "Section ID", name: "id", widget: "string", default: "give-me-an-id-" }
+      - { label: "Section Name", name: "name", widget: "string" }
+      - { label: "Section order", name: "order", widget: "number",  default: 50, valueType: "int", min: 1, max: 101 }
+      - { label: "Section type", name: "type", widget: "select", options: ["left-image", "right-image", "text-only", "image-only", "image-only", "multi-image"],default: ["neutral"] }
+      - { label: "Section Title (English)", name: "title-en", widget: "string" }
+      - { label: "Section Body (English)", name: "body-en", widget: "markdown" }
+      - { label: "Section Image (English)", name: "image-en", widget: "image", required: false }
+      - { label: "Section Title (Spanish)", name: "title-es", widget: "string" }
+      - { label: "Section Body (Spanish)", name: "body-es", widget: "markdown" }
+      - { label: "Section Image (Spanish)", name: "image-es", widget: "image", required: false }
   - label: "Programs English"
     name: "programs-en"
     folder: "_programs"
