@@ -1,4 +1,5 @@
 ---
+picture: /media/screen-shot-2022-12-06-at-10.59.47-am.png
 layout: post
 title: "FCCAN & Activism "
 date: 2022-12-06T17:57:25.111Z
