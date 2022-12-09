@@ -1,26 +1,54 @@
 {% for section in site.donate-sections %}
 	{% if page.lang == "es" %}
-		<section>
-		  <div class="container">
-		    <div class="row-fluid">
-					<div class="card-body">
-			            <h3>{{section.title-es | markdownify }}</h3>
-						   	<p>{{ section.body-es | markdownify  }}</p>
-			          </div>
-			      </div>
-			    </div>
-		</section>
+		{% if section.type == "text-only" %}
+			<section>
+			  <div class="container">
+			    <div class="row-fluid">
+						<div class="card-body">
+				            <h3>{{section.title-es | markdownify }}</h3>
+							   	<p>{{ section.body-es | markdownify  }}</p>
+				          </div>
+				      </div>
+				    </div>
+			</section>
+		{% elsif section.type == "image-only" %}
+			<section>
+			  	<div class="container">
+			    	<div class="row-fluid">
+						<div class="card-body">
+							<div class="box-img">
+							   	<img src="{{ section.image-es }}" alt="">
+							</div>
+				        </div>
+				    </div>
+				</div>
+			</section>
+		{% endif %}
 	{% else %}
-		<section>
-		  <div class="container">
-		    <div class="row-fluid">
-					<div class="card-body">
-			            <h3>{{section.title-en| markdownify }}</h3>
-						   	<p>{{ section.body-en | markdownify }}</p>
-			          </div>
-			      </div>
-			    </div>
-		</section>
+		{% if section.type == "text-only" %}
+			<section>
+			  <div class="container">
+			    <div class="row-fluid">
+						<div class="card-body">
+				            <h3>{{section.title-en | markdownify }}</h3>
+							   	<p>{{ section.body-en | markdownify  }}</p>
+				          </div>
+				      </div>
+				    </div>
+			</section>
+		{% elsif section.type == "image-only" %}
+			<section>
+			  <div class="container">
+			    <div class="row-fluid">
+						<div class="card-body">
+							<div class="box-img">
+							   	<img src="{{ section.image-en }}" alt="">
+							</div>
+				        </div>
+				      </div>
+				    </div>
+			</section>
+		{% endif %}
 	{% endif %}
 {% endfor %}
 <section>
