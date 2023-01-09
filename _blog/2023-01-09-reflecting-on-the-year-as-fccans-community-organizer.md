@@ -17,4 +17,8 @@ When I first started, I was shy, nervous and scared. There I was sitting in a vi
 
 *Litzy along with other organizers from FCCAN and Planned Parenthood after a know your rights training in Fall 2022*
 
+![](/media/screen-shot-2023-01-09-at-1.18.27-pm.png)
+
+![](/media/screen-shot-2023-01-09-at-1.19.18-pm.png)
+
 I have lived in Fort Collins almost my entire life but there were parts of the community that I hadn’t experienced and people I had not met. I didn’t realize there were people to meet that were as passionate as I am about social justice who are willing to work together and bring justice to Fort Collins. Even as I'm stepping away for travels abroad, I look forward to bringing the wisdom of community organizing with me wherever I go, and to continue my work in the community when I return.
