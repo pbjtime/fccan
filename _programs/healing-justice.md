@@ -7,7 +7,7 @@ ordering:
 associated-group:
   - healing justice
 ---
-![](/media/healing-justice-banner.png)
+![](/media/copy-of-writing-with-ancestors-poetry-workshop-open-mic.png)
 
 > “Our movements themselves have to be healing, or there’s no point to them”\
 > —Cara Page, Kindred: Southern Healing Justice Collective
@@ -34,6 +34,6 @@ If we are serious about our spirituality and wellbeing, we need to practice sanc
 
 [The Growing Project](http://www.thegrowingproject.org/)
 
-[Food Not Bombs ](https://www.facebook.com/Food-Not-Bombs-Fort-Collins-1787637267968000/)
+[T](https://www.facebook.com/BIPOCalliance)he BIPOC Alliance 
 
 [Colorado State University, Department of Ethnic Studies ](https://ethnicstudies.colostate.edu/)
