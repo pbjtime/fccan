@@ -26,13 +26,15 @@ School Justice PSD understands that migrantes and Latine’s are an integral par
 
 **Below are some resources and ways to get involved.  In these troubling times, the PSD should be finding ways to save money, prioritize safety for ALL students & not waste money on police when there are no students in school. We invite you to speak out and let your voices be heard:**
 
-* **Email the school board, let them know how you feel** 
-* **Join Public Comment!** 
-* **Join us at our monthly community meetings to learn more & meet our organizers.** 
-* **[Send](http://fccan.org/contact/) us your thoughts and ideas to further the reach of your voice**
+* **[Email the school board](https://www.psdschools.org/your-district/board-of-education/school-board-directors), let them know how you feel** 
+* **Participate in the Board of Education's Public Comment!** 
+* **Join us at our FCCAN monthly community meetings to learn more & meet our organizers.** 
+* **Send us your thoughts and ideas to further the reach of your voice**
 
 #### **Articles:**
 
 * #### [Handcuffs in Hallways: About a third of all students arrested last year in Colorado public schools had disabilities](https://www.cbsnews.com/colorado/news/elementary-school-arrests-one-third-students-arrested-last-year-colorado-public-schools-disabilities-state-data/)
 * #### [Dignity in Schools, Creating Community not Cops ](https://dignityinschools.org/take-action/community-not-cops/)
-* #### [Dignity in Schools, Model School Code on Education and Dignit](https://dignityinschools.org/toolkits/model-code/)y
+* #### [Dignity in Schools, Model School Code on Education and Dignity](https://dignityinschools.org/toolkits/model-code/)[](https://dignityinschools.org/toolkits/model-code/)
+* #### [Students Need Emotional and Community Support, Not Cops in Schools](https://truthout.org/articles/students-need-emotional-and-community-support-not-cops-in-schools/?eType=EmailBlastContent&eId=909392f4-29ab-4b9b-9e9a-5bc2ff9fc550)
+* #### [Students Like Me Can Target School Boards to Get Police Out of Schools](https://truthout.org/articles/students-like-me-can-target-school-boards-to-get-police-out-of-schools/)
