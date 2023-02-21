@@ -1,5 +1,5 @@
 ---
-picture: /media/img_9225.jpg
+picture: ""
 name: Hannia Favela
 email: intern@fccan.org
 title-en: Intern
