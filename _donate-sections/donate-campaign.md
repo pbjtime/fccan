@@ -21,6 +21,7 @@ body-en: >-
 
 
   ### We thank you for your continued support!
+image-en: /media/sustaining-membership.png
 title-es: ¡Conviértase en miembro hoy y apoye el Fondo de Solidaridad de FCCAN!
 body-es: >-
   **Te invitamos a unirte a nosotros como miembro de apoyo mensual** para
