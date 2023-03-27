@@ -28,6 +28,4 @@ By deciding to shutter this organization, we hope to leave space for others to t
 
 ![](/media/sit-lie-ban-protest.jpeg)
 
-FCHC and community at a 2017 Sit-Lie Ban Protest
-
-![](/media/anne-braden-quote.jpg)
+![]()
