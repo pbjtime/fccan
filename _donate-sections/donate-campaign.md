@@ -20,9 +20,11 @@ body-en: >-
   Ready to donate now? Click below to get started!
 
 
-  ### <iframe width="300" height="500"
-      src="https://www.coloradogives.org/forms/FortCollinsCommunityActionNetwork?id=pmailf&embed=donation_widget"
-      scrolling="no" marginHeight="0" marginWidth="0" frameBorder="0"></iframe>We thank you for your continued support!
+  ```
+
+
+  ```
+
 
   ![]()
 
