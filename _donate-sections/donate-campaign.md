@@ -3,7 +3,7 @@ id: donate-campaign
 name: donate-campaign
 order: 1
 type: text-only
-title-en: "Become a member today & support FCCAN's Solidarity Fund! "
+title-en: Show Your Support for FCCAN!
 body-en: >-
   <!--StartFragment-->
 
