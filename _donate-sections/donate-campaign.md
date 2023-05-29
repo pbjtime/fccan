@@ -8,13 +8,10 @@ body-en: >-
   <!--StartFragment-->
 
 
-  **We invite you to join us as a monthly sustaining member** to help us in starting off 2023 strong with the launch of our reproductive justice and healing programming and even more no-cost community healing spaces in Fort Collins! In addition to becoming a monthly donor, we invite you to share your abundance through volunteer opportunities.
+  We have big plans for 2023. Right now, we are focusing our efforts on advancing outdoor equity for BIPOC youth, as well as continuing to spread sexual and reproductive health information and resources. We are so appreciative to you for supporting our work and our mission to advance economic, social, and environmental justice in Fort Collins, and we invite you to become a monthly donor. Even $5/month makes a huge impact, and we deeply appreciate all monthly donation amounts
 
 
-  When you become one of our donors, you will benefit in receiving beautiful artwork, made by local artists in our community!
-
-
-  We also invite you to share about our campaign across your networks and encourage people to join [our listserv](https://docs.google.com/forms/d/e/1FAIpQLScpVX0Q_E_aLfYB0SXqbOUanJaQJ1YB40kXBjLeLNbvz7P9hA/viewform), and follow us on [Facebook](https://www.facebook.com/FCCAN/) and/or [Instagram.](http://instagram.com/fccan/)
+  We also invite you to share about our campaign across your networks and encourage people to join [our listserv](https://docs.google.com/forms/d/e/1FAIpQLScpVX0Q_E_aLfYB0SXqbOUanJaQJ1YB40kXBjLeLNbvz7P9hA/viewform), and follow us on [Facebook](https://www.facebook.com/FCCAN/) and [Instagram.](http://instagram.com/fccan/)
 
 
   Ready to donate now? Click below to get started!
