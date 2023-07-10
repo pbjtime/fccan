@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/077425e5-d667-4fee-afb2-aac79195beea/deploy-status)](https://app.netlify.com/sites/fccan/deploys)
 
-This is the repo for https://fccan.com. Fccan is an organization based in community focused on furthering economic, social, and environmental justice, sustainability, human rights, and peace for all by building coalitions, developing strategies and actions, and supporting existing progressive organizations.
+This is the repo for https://fccan.org. Fccan is an organization based in community focused on furthering economic, social, and environmental justice, sustainability, human rights, and peace for all by building coalitions, developing strategies and actions, and supporting existing progressive organizations.
 
 This site functions off the following technologies:
  [Jekyll](https://jekyllrb.com/)
